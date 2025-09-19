@@ -1,0 +1,1433 @@
+Area_sqft,Property_BHK,Furnished_Status,Bathroom,Society,Price_(lacks),Status,House_floor,Building_floor,Floor_Category
+640,2,Unfurnished,2,Forest Hills,37.0,Ready to Move,7,7,Top
+894,2,Unfurnished,2,Kundan Espacio,120.0,Ready to Move,3,13,Low
+560,1,Unfurnished,1,Tarangan Apartment,90.0,Ready to Move,2,3,Mid
+1061,3,Unfurnished,3,Ganga Serio,185.0,Ready to Move,3,7,Low
+736,2,Unfurnished,2,Tamarind Park,56.0,Ready to Move,7,12,Mid
+392,1,Unfurnished,1,Ishwar River Residency,32.0,Ready to Move,12,12,Top
+471,1,Unfurnished,1,Kohinoor Majesty,21.5,Ready to Move,5,9,Mid
+525,1,Unfurnished,1,Sancheti Pratik Nagar,28.0,Ready to Move,1,3,Mid
+390,1,Unfurnished,1,Indraprastha Indraprastha,35.0,Ready to Move,8,9,Top
+517,1,Unfurnished,1,Blossom,35.0,Ready to Move,2,11,Low
+645,1,Unfurnished,2,Raga Homes,37.0,Ready to Move,10,11,Top
+796,2,Semi-Furnished,2,Kundan Kushal Nagar,65.0,Ready to Move,4,7,Mid
+880,2,Furnished,2,Atul Avenue,75.0,Ready to Move,2,9,Low
+760,2,Unfurnished,2,Ira,55.0,Ready to Move,4,10,Mid
+1099,3,Unfurnished,2,Life Montage,90.0,Ready to Move,4,13,Mid
+419,1,Semi-Furnished,1,Dreams Aakruti,30.0,Ready to Move,7,7,Top
+770,2,Unfurnished,2,The Kate Residency,65.0,Ready to Move,1,1,Top
+560,2,Unfurnished,2,Darode Shriniwas Serene County,48.0,Ready to Move,1,6,Low
+500,1,Unfurnished,1,Kushal Swarnali,21.0,Ready to Move,2,11,Low
+775,2,Unfurnished,2,SVG Royal Exotica,85.0,Ready to Move,2,12,Low
+760,2,Unfurnished,2,Royal Sublime,78.0,Ready to Move,6,13,Mid
+800,2,Furnished,1,Alok Park,42.0,Ready to Move,2,5,Mid
+1825,3,Semi-Furnished,3,Balaji Infinity Project,249.0,Ready to Move,8,11,Mid
+670,1,Semi-Furnished,1,Yashwin,55.0,Ready to Move,7,11,Mid
+460,1,Unfurnished,2,Fortune Perfect,55.0,Ready to Move,4,12,Mid
+750,2,Unfurnished,1,Sai Enclave,80.0,Ready to Move,1,4,Mid
+929,2,Unfurnished,2,Manas Valley,53.0,Ready to Move,6,9,Mid
+935,2,Unfurnished,2,Raheja Vistas,69.5,Ready to Move,6,11,Mid
+1145,3,Semi-Furnished,2,Tanish Orchid,58.0,Ready to Move,8,12,Mid
+720,2,Unfurnished,2,Dwarka City,35.0,Ready to Move,8,12,Mid
+504,1,Unfurnished,1,Tushar Park,25.0,Ready to Move,4,4,Top
+554,2,Furnished,2,Mangal Dham Apartment,70.0,Ready to Move,5,11,Mid
+684,2,Unfurnished,2,Shivaji CHS,31.0,Ready to Move,2,3,Mid
+432,1,Semi-Furnished,1,Sai Yashshree Apartment,40.0,Ready to Move,2,4,Mid
+864,2,Unfurnished,2,SiddhiVinayak Vision City,40.0,Ready to Move,7,7,Top
+1036,3,Unfurnished,3,Wisdom Park,107.0,Ready to Move,9,12,Top
+576,1,Unfurnished,1,Laxmi Residency,46.0,Ready to Move,3,4,Top
+432,1,Unfurnished,1,Laxmi Residency,46.0,Ready to Move,3,5,Mid
+626,2,Furnished,2,Laxmi Residency,60.0,Ready to Move,3,5,Mid
+432,1,Unfurnished,1,Sai Shiv Corner,39.0,Ready to Move,1,7,Low
+432,1,Unfurnished,1,Sundaram Apartment,72.0,Ready to Move,1,6,Low
+432,1,Unfurnished,1,Sarang Apartments,25.0,Ready to Move,1,3,Mid
+216,1,Unfurnished,1,Subhadra Niwas,20.0,Ready to Move,1,3,Mid
+324,1,Unfurnished,1,Kamal Apartment,15.0,Ready to Move,3,5,Mid
+593,2,Unfurnished,2,Sai Samarth Residency,56.0,Ready to Move,2,5,Mid
+504,1,Semi-Furnished,1,Siddhi Samrat Apartment,43.0,Ready to Move,3,4,Top
+277,1,Unfurnished,1,Jai Shankar,31.0,Ready to Move,5,7,Mid
+389,1,Unfurnished,1,Balaji Flat Mundhwa,30.0,Ready to Move,1,4,Mid
+756,2,Semi-Furnished,2,Florida Estate,80.0,Ready to Move,6,7,Top
+756,2,Unfurnished,2,Anandban Apartment,75.0,Ready to Move,1,5,Low
+425,1,Unfurnished,1,Chandrabhaga Residency,25.0,Ready to Move,3,5,Mid
+575,2,Furnished,2,Shitole Empire,63.0,Ready to Move,1,5,Low
+936,3,Semi-Furnished,3,JCD Park,125.0,Ready to Move,3,4,Top
+564,2,Semi-Furnished,2,Kapare Heights,55.0,Ready to Move,1,4,Mid
+441,1,Unfurnished,1,Sant Sai Apartment,40.0,Ready to Move,1,5,Low
+396,1,Unfurnished,1,Samarth Krupa,26.0,Ready to Move,2,5,Mid
+162,1,Unfurnished,1,Nano Complex,80.0,Ready to Move,1,5,Low
+432,1,Semi-Furnished,1,Nav Vrushali,65.0,Ready to Move,1,3,Mid
+360,1,Unfurnished,1,Little Corner,30.0,Ready to Move,4,5,Top
+418,1,Unfurnished,1,Neel Vihar,18.5,Ready to Move,2,4,Mid
+385,1,Unfurnished,1,Parth Darshan,24.0,Ready to Move,2,6,Mid
+868,3,Unfurnished,2,Tanishka Heights,75.0,Ready to Move,3,4,Top
+508,1,Unfurnished,1,Surya Kiran Apartment,55.0,Ready to Move,3,4,Top
+468,1,Unfurnished,1,Dwarkadhish Apartment,30.0,Ready to Move,4,4,Top
+324,1,Unfurnished,1,Dwarka City,13.0,Ready to Move,2,3,Mid
+672,2,Unfurnished,2,Todkar Aangan,42.0,Ready to Move,3,5,Mid
+583,2,Semi-Furnished,2,Chrishh Heights,33.0,Ready to Move,2,4,Mid
+385,1,Furnished,1,Chaurang Smit Shilp,30.0,Ready to Move,3,7,Mid
+504,1,Semi-Furnished,1,Bhagyalaxmi Hieghts,52.0,Ready to Move,2,5,Mid
+312,1,Semi-Furnished,1,Bhagwati Residency,21.0,Ready to Move,2,5,Mid
+842,2,Semi-Furnished,2,Shalimar Apartment,95.0,Ready to Move,3,4,Top
+403,1,Unfurnished,1,Bhakti Residency,20.0,Ready to Move,5,5,Top
+367,1,Unfurnished,1,Athashree Landmark,22.0,Ready to Move,4,5,Top
+472,1,Semi-Furnished,1,Pavani Paradise,34.0,Ready to Move,4,4,Top
+522,1,Semi-Furnished,1,Pranayraj Garden,40.0,Ready to Move,3,3,Top
+393,1,Unfurnished,1,Lakshmi Kamal Palace,21.0,Ready to Move,1,6,Low
+605,2,Unfurnished,2,Ustav,44.0,Ready to Move,1,4,Mid
+396,1,Semi-Furnished,1,Yashwant Apartment,48.0,Ready to Move,2,4,Mid
+700,2,Unfurnished,2,Yashwant Nagar,50.0,Ready to Move,4,5,Top
+425,1,Unfurnished,1,Joshi Apartment,35.0,Ready to Move,2,4,Mid
+239,1,Unfurnished,1,Hadapsar Vaishnavi Mahila Society Carpet Area 239 sqft Status Ready to Move Floor 1 out of 4 Transaction Resale Furnishing Unfurnished Society Vaishnavi Mahila Society,12.0,Ready to Move,1,4,Mid
+396,1,Unfurnished,1,Kunal Homes,32.0,Ready to Move,3,4,Top
+634,2,Unfurnished,2,Glorious Park,55.0,Ready to Move,4,7,Mid
+251,1,Unfurnished,2,Maple Aapla Ghar Urli Kanchan Lakeside,25.0,Ready to Move,7,8,Top
+458,1,Unfurnished,1,Swastik Diamond Rockk,45.0,Ready to Move,4,13,Mid
+612,2,Unfurnished,1,Prathamesh Residency,48.0,Ready to Move,1,5,Low
+395,1,Unfurnished,1,Venkateshwara Silver Nest,17.0,Ready to Move,2,3,Mid
+914,2,Unfurnished,2,Silver Gardenia,90.0,Ready to Move,6,12,Mid
+432,2,Semi-Furnished,2,Somani Dream Home Phase II,42.0,Ready to Move,8,13,Mid
+468,1,Unfurnished,1,ASR 18 Nests,45.0,Ready to Move,2,8,Mid
+662,2,Unfurnished,2,Ikon Krishna Dham,60.0,Ready to Move,4,6,Mid
+432,1,Semi-Furnished,2,GK Rose Mansion,36.5,Ready to Move,10,10,Top
+430,1,Unfurnished,2,Amrutkalash,22.0,Ready to Move,4,5,Top
+747,2,Semi-Furnished,2,Avior Aatman,99.0,Ready to Move,11,12,Top
+360,1,Unfurnished,1,Gurukrupa Terrace,35.0,Ready to Move,2,3,Mid
+511,1,Furnished,2,Kunal Apartment,60.0,Ready to Move,1,3,Mid
+648,2,Semi-Furnished,2,Shri Shree Tuljabhavani,59.0,Ready to Move,3,8,Mid
+562,2,Unfurnished,2,Manav Wild Woods,53.0,Ready to Move,1,14,Low
+360,1,Semi-Furnished,1,Shree Krishna Heights,35.0,Ready to Move,3,4,Top
+997,3,Semi-Furnished,2,Suryakant Kakade City,140.0,Ready to Move,1,11,Low
+360,1,Semi-Furnished,1,Austin Vallabh,38.0,Ready to Move,2,8,Mid
+515,1,Unfurnished,1,Sukhwani Woods,45.0,Ready to Move,4,6,Mid
+665,2,Semi-Furnished,2,Kolte Patil Life Republic Sector R16 16th Avenue Arezo F Building,65.0,Ready to Move,3,7,Mid
+572,2,Unfurnished,2,Jain Towers,35.0,Ready to Move,5,8,Mid
+775,2,Unfurnished,2,Govardhan Anandban,66.0,Ready to Move,3,6,Mid
+364,1,Semi-Furnished,1,Akshay Yashshree,26.0,Ready to Move,2,5,Mid
+468,1,Unfurnished,2,Five Elements Shubharambh,36.0,Ready to Move,6,13,Mid
+454,2,Unfurnished,2,Palaash 24,41.5,Ready to Move,5,8,Mid
+497,2,Furnished,1,Mantra Insignia Phase 3,54.0,Ready to Move,7,14,Mid
+857,3,Unfurnished,1,Samruddhi Heights CHS,50.0,Ready to Move,4,5,Top
+540,2,Unfurnished,1,Samarth Sunako Heights,75.0,Ready to Move,2,6,Mid
+504,2,Unfurnished,2,Bala Sai Rose View Residency,29.0,Ready to Move,2,5,Mid
+396,1,Unfurnished,1,Saikrupa Vishwakalyan Nagri,17.0,Ready to Move,5,5,Top
+584,2,Semi-Furnished,2,Karhans Sanidhya,62.0,Ready to Move,2,3,Mid
+626,2,Semi-Furnished,2,Samruddhi Arihant Heights,57.0,Ready to Move,1,8,Low
+418,1,Unfurnished,1,Prajol Aashiyana,31.0,Ready to Move,1,6,Low
+1037,3,Unfurnished,3,Nilharsh Dwarka,94.0,Ready to Move,2,8,Mid
+418,1,Semi-Furnished,2,Intella Vardhaman Gold,21.0,Ready to Move,1,4,Mid
+497,1,Semi-Furnished,1,Samrat Atharva Patson Phinix PH II,28.0,Ready to Move,1,4,Mid
+432,1,Semi-Furnished,1,Vighnaharta Sankul,30.0,Ready to Move,4,7,Mid
+598,2,Unfurnished,2,Ayush River Park View,60.0,Ready to Move,4,8,Mid
+792,2,Unfurnished,2,Tuljai Residency,50.0,Ready to Move,5,9,Mid
+219,1,Unfurnished,1,Dhanalaxmi Swayambhu Heights,11.8,Ready to Move,1,4,Mid
+432,1,Unfurnished,1,Amcon Orchids,35.0,Ready to Move,1,5,Low
+380,1,Unfurnished,1,Lodha Belmondo Augusta,70.0,Ready to Move,6,9,Mid
+418,1,Unfurnished,1,Smart Avenue,33.0,Ready to Move,4,5,Top
+572,2,Semi-Furnished,2,Nirmitee Shubhyog,44.0,Ready to Move,3,13,Low
+522,2,Semi-Furnished,2,Gokul Dham,32.0,Ready to Move,3,3,Top
+468,1,Semi-Furnished,1,Kamal Kanha Apartment,40.0,Ready to Move,2,5,Mid
+483,2,Unfurnished,1,Park Avenue,42.0,Ready to Move,6,7,Top
+639,2,Unfurnished,2,Green Homes Apartment,52.0,Ready to Move,4,5,Top
+461,1,Semi-Furnished,1,Chandrabhaga Apartment,28.0,Ready to Move,2,5,Mid
+706,2,Furnished,2,Prasanna Paradise Apartment,65.0,Ready to Move,2,5,Mid
+468,1,Unfurnished,2,Saudagar Nagri CHS,45.0,Ready to Move,2,2,Top
+407,1,Unfurnished,1,Chrishh Basera,22.0,Ready to Move,3,4,Top
+1080,3,Furnished,3,Runwal Snehanjali,110.0,Ready to Move,1,6,Low
+713,2,Unfurnished,2,Mauli Lipane Opulence,50.0,Ready to Move,2,12,Low
+684,2,Furnished,2,Sahajanand Apartment,46.0,Ready to Move,4,5,Top
+468,1,Semi-Furnished,1,Shree DS Homes,42.0,Ready to Move,1,6,Low
+619,2,Unfurnished,2,Oriental Gold Apartment,70.0,Ready to Move,1,3,Mid
+584,2,Unfurnished,2,Karhans Sanidhya,58.0,Ready to Move,2,5,Mid
+468,1,Unfurnished,2,Nexus Meridian,39.0,Ready to Move,1,10,Low
+468,1,Unfurnished,1,Kumar Omkar Shree,31.0,Ready to Move,2,4,Mid
+402,1,Unfurnished,1,Reputed Motiram Nagar,52.0,Ready to Move,5,6,Top
+360,1,Unfurnished,1,Apple Glory,25.5,Ready to Move,3,3,Top
+263,1,Unfurnished,1,Tanish Bhakti,20.0,Ready to Move,11,11,Top
+396,1,Unfurnished,1,Katraj Pratibha Housing Society Carpet Area 396 sqft Status Ready to Move Floor 1 out of 4 Transaction Resale Furnishing Unfurnished Society Pratibha Housing Society,40.0,Ready to Move,1,4,Mid
+900,2,Furnished,2,Clover Heights,130.0,Ready to Move,6,12,Mid
+648,2,Furnished,2,Legacy Celestia,80.0,Ready to Move,10,13,Top
+598,2,Semi-Furnished,2,Jhala Group Simplicity,36.5,Ready to Move,3,4,Top
+864,3,Furnished,3,Arnav Dopioo,50.0,Ready to Move,4,4,Top
+749,3,Unfurnished,3,Soham Shitole Heights,135.0,Ready to Move,1,11,Low
+396,1,Unfurnished,1,Miracle Mathura,30.0,Ready to Move,3,5,Mid
+941,2,Unfurnished,2,Nilharsh Dwarka,83.0,Ready to Move,3,8,Mid
+390,1,Unfurnished,1,Anubandh Residency,20.0,Ready to Move,4,5,Top
+564,2,Semi-Furnished,1,Kamalraj Datta Vihar Central,40.0,Ready to Move,7,11,Mid
+798,3,Semi-Furnished,2,Xrbia Riverfront,35.0,Ready to Move,5,9,Mid
+331,1,Semi-Furnished,1,KUL Ecoloch Delight,46.0,Ready to Move,7,9,Top
+784,2,Unfurnished,2,Swanand,89.0,Ready to Move,5,7,Mid
+331,1,Furnished,1,Kamala Park,40.0,Ready to Move,2,5,Mid
+677,2,Unfurnished,2,Vimal Apartment,75.0,Ready to Move,1,4,Mid
+389,1,Unfurnished,1,Sai Samarth Residency,21.0,Ready to Move,2,6,Mid
+464,1,Unfurnished,2,Samrudhi Residency,22.0,Ready to Move,4,5,Top
+360,1,Unfurnished,1,Guru Nanak Nagar Shreyas Society Carpet Area 360 sqft Status Ready to Move Floor 1 out of 19 Transaction Resale Furnishing Unfurnished Society Shreyas Society,40.0,Ready to Move,1,19,Low
+549,2,Unfurnished,1,Adinath Apartments,50.0,Ready to Move,4,5,Top
+612,2,Unfurnished,2,Akash Residency,38.0,Ready to Move,2,5,Mid
+504,2,Semi-Furnished,2,Rajesh Landmarks,95.0,Ready to Move,3,4,Top
+324,1,Unfurnished,1,Kamakshi CHS,32.0,Ready to Move,2,3,Mid
+458,1,Semi-Furnished,1,Vihana Mitribute Homes,45.0,Ready to Move,2,15,Low
+1919,4,Unfurnished,3,Ganga Satellite,280.0,Ready to Move,7,11,Mid
+522,1,Unfurnished,1,Sai Kashish Park,44.0,Ready to Move,5,7,Mid
+360,1,Unfurnished,1,Ishan Heights,20.0,Ready to Move,3,4,Top
+266,1,Unfurnished,1,Shivtej Apartment,14.0,Ready to Move,4,5,Top
+879,2,Semi-Furnished,2,Narayan Park,65.0,Ready to Move,2,6,Mid
+507,1,Unfurnished,1,Gagan Lawish,42.0,Ready to Move,5,11,Mid
+507,1,Unfurnished,1,Gagan Lawish,36.0,Ready to Move,5,11,Mid
+698,2,Semi-Furnished,2,Gagan Lawish,60.0,Ready to Move,3,11,Mid
+770,2,Semi-Furnished,2,Gagan Lawish,65.0,Ready to Move,3,13,Low
+792,3,Unfurnished,3,Balaji Heights,30.0,Ready to Move,1,6,Low
+414,2,Unfurnished,1,Balaji Heights,28.0,Ready to Move,3,6,Mid
+720,2,Unfurnished,2,Balaji Heights,45.0,Ready to Move,4,7,Mid
+981,3,Semi-Furnished,3,Surana Bhansali Zinnea,99.0,Ready to Move,3,13,Low
+454,1,Semi-Furnished,1,Star City,32.0,Ready to Move,9,11,Top
+1033,3,Furnished,3,Belleza,120.0,Ready to Move,1,12,Low
+473,1,Unfurnished,1,Premia,38.0,Ready to Move,3,12,Mid
+490,1,Unfurnished,1,Belle Vie,32.0,Ready to Move,11,11,Top
+752,2,Semi-Furnished,2,Belle Vie,55.0,Ready to Move,11,11,Top
+576,2,Unfurnished,2,Sunshine Hills,40.0,Ready to Move,4,7,Mid
+626,2,Unfurnished,2,Sunshine Hills,42.0,Ready to Move,4,7,Mid
+641,2,Unfurnished,2,Sunshine Hills,44.0,Ready to Move,1,14,Low
+652,2,Unfurnished,2,Sunshine Hills,47.0,Ready to Move,5,7,Mid
+680,2,Unfurnished,2,Sunshine Hills,45.0,Ready to Move,5,8,Mid
+418,1,Unfurnished,2,Sunshine Hills,27.0,Ready to Move,8,10,Top
+475,1,Semi-Furnished,1,Sunshine Hills,30.0,Ready to Move,5,7,Mid
+680,2,Unfurnished,2,Sunshine Hills,42.0,Ready to Move,7,7,Top
+475,1,Semi-Furnished,1,Sunshine Hills,27.9,Ready to Move,2,7,Mid
+648,2,Unfurnished,2,Silver Springs,50.0,Ready to Move,6,12,Mid
+662,2,Semi-Furnished,2,Silver Springs,45.0,Ready to Move,9,11,Top
+432,1,Unfurnished,1,Silver Springs,28.0,Ready to Move,4,11,Mid
+414,2,Unfurnished,1,Blessings,38.0,Ready to Move,11,15,Mid
+558,1,Unfurnished,1,Palm Atlantis,35.0,Ready to Move,2,11,Low
+558,1,Unfurnished,1,Palm Atlantis,33.0,Ready to Move,1,13,Low
+471,1,Unfurnished,1,Ira,39.0,Ready to Move,3,12,Mid
+701,2,Semi-Furnished,2,Ira,52.1,Ready to Move,4,12,Mid
+684,2,Unfurnished,2,Ira,50.0,Ready to Move,1,12,Low
+770,2,Unfurnished,2,Ira,60.0,Ready to Move,4,10,Mid
+270,1,Semi-Furnished,1,Apla Ghar Ranjangaon,19.0,Ready to Move,7,8,Top
+381,2,Unfurnished,2,Aapla Ghar Sanaswadi,25.0,Ready to Move,4,6,Mid
+576,2,Semi-Furnished,1,Aapla Ghar Sanaswadi,28.0,Ready to Move,2,2,Top
+514,2,Unfurnished,1,Aapla Ghar Sanaswadi,17.0,Ready to Move,3,4,Top
+423,1,Unfurnished,2,Mountscape,29.5,Ready to Move,5,10,Mid
+864,2,Furnished,2,Palm One,90.0,Ready to Move,1,10,Low
+497,1,Unfurnished,2,PRA The Lake District,25.5,Ready to Move,9,12,Top
+756,2,Unfurnished,2,PRA The Lake District,45.0,Ready to Move,6,12,Mid
+1138,3,Unfurnished,1,PRA The Lake District,70.0,Ready to Move,3,11,Mid
+698,2,Furnished,2,Royal Orchid,72.0,Ready to Move,7,12,Mid
+625,2,Semi-Furnished,2,Royal Orchid,72.0,Ready to Move,12,12,Top
+740,2,Unfurnished,2,SSK Ambrosia,55.0,Ready to Move,2,11,Low
+778,2,Furnished,2,Pristine Pro Life,95.0,Ready to Move,11,12,Top
+612,2,Semi-Furnished,2,Balaji Residency,42.0,Ready to Move,2,5,Mid
+756,2,Semi-Furnished,2,Belleza,87.0,Ready to Move,9,11,Top
+922,3,Furnished,3,Kushal Nivriti,85.0,Ready to Move,4,11,Mid
+778,3,Unfurnished,3,Kushal Nivriti,82.0,Ready to Move,10,11,Top
+922,3,Unfurnished,3,Kushal Nivriti,85.0,Ready to Move,9,11,Top
+664,2,Furnished,2,Kushal Nivriti,65.0,Ready to Move,8,11,Mid
+396,1,Unfurnished,1,Kwality World Vrindavan Heights,17.0,Ready to Move,1,5,Low
+756,2,Furnished,2,West Wind Park,70.0,Ready to Move,3,11,Mid
+518,1,Unfurnished,2,Vishwavihar,42.0,Ready to Move,9,12,Top
+263,1,Unfurnished,1,Laxmi Heights,14.0,Ready to Move,3,5,Mid
+612,2,Semi-Furnished,2,Shree Sai Swapna Nagari,27.0,Ready to Move,2,4,Mid
+612,2,Unfurnished,2,Shree Sai Swapna Nagari,27.0,Ready to Move,5,7,Mid
+353,1,Furnished,1,Bella Casa,60.0,Ready to Move,7,12,Mid
+482,1,Unfurnished,2,Silver Woods,32.0,Ready to Move,6,12,Mid
+790,2,Semi-Furnished,2,Shri Sai Hills,42.0,Ready to Move,3,9,Mid
+635,2,Furnished,2,Lake Shire,52.0,Ready to Move,5,13,Mid
+479,1,Semi-Furnished,2,Kamalraj Hari Dwar,68.0,Ready to Move,7,10,Mid
+653,2,Unfurnished,2,J D Green Paradise,45.0,Ready to Move,4,4,Top
+899,3,Furnished,3,Lakeshore Residency,60.0,Ready to Move,3,4,Top
+787,2,Unfurnished,2,Mango Woods,70.0,Ready to Move,7,9,Top
+544,1,Semi-Furnished,1,Urban Forest,40.0,Ready to Move,2,8,Mid
+302,1,Unfurnished,1,Ram India Livogue Lifestyle in Vogue,46.0,Ready to Move,3,14,Low
+570,2,Semi-Furnished,2,Sky Lights,40.0,Ready to Move,1,13,Low
+824,2,Semi-Furnished,2,Zoa,75.0,Ready to Move,6,8,Top
+495,1,Unfurnished,2,Polite Panorama,35.0,Ready to Move,4,9,Mid
+482,1,Semi-Furnished,2,Polite Panorama,34.0,Ready to Move,6,11,Mid
+385,1,Semi-Furnished,2,Polite Panorama,35.0,Ready to Move,8,9,Top
+864,2,Semi-Furnished,2,Royal Orange County,95.0,Ready to Move,5,12,Mid
+659,2,Unfurnished,2,Dreams Wisteria,34.0,Ready to Move,6,10,Mid
+667,2,Semi-Furnished,2,Giriraj Heights,52.0,Ready to Move,6,6,Top
+799,2,Unfurnished,2,Ganga Aurum Park,69.0,Ready to Move,4,12,Mid
+749,2,Unfurnished,2,Ganga Estoria,58.0,Ready to Move,9,11,Top
+461,1,Unfurnished,1,Aero Nest,30.0,Ready to Move,8,8,Top
+382,1,Unfurnished,1,Amanora Park Township,47.0,Ready to Move,6,19,Mid
+335,1,Furnished,1,Amanora Park Township,35.0,Ready to Move,1,7,Low
+601,2,Semi-Furnished,2,11K County,40.0,Ready to Move,6,9,Mid
+577,2,Semi-Furnished,2,Aryavedant Residency,51.0,Ready to Move,4,5,Top
+577,2,Semi-Furnished,2,Aryavedant Residency,55.0,Ready to Move,4,5,Top
+479,1,Unfurnished,1,Shiv Sai Vishwa,53.0,Ready to Move,8,8,Top
+674,2,Unfurnished,2,Belvalkar Solacia,55.0,Ready to Move,2,7,Mid
+1210,3,Furnished,3,Belvalkar Solacia,120.0,Ready to Move,11,11,Top
+507,1,Unfurnished,1,Ivory,30.0,Ready to Move,5,6,Top
+420,1,Unfurnished,1,Ivory,26.0,Ready to Move,4,5,Top
+1008,2,Semi-Furnished,2,Mavens Viaan,48.0,Ready to Move,2,11,Low
+868,2,Furnished,2,Dharamshi Signature,68.0,Ready to Move,1,5,Low
+497,1,Semi-Furnished,1,Dhavel Shivtirth,35.0,Ready to Move,1,4,Mid
+710,2,Unfurnished,2,Bhalchandra Nagri,66.0,Ready to Move,8,12,Mid
+875,3,Semi-Furnished,3,Revell Orchid II,70.0,Ready to Move,7,12,Mid
+922,3,Semi-Furnished,2,Urban Forest,100.0,Ready to Move,3,9,Mid
+439,1,Unfurnished,1,Sampanna Homes,23.0,Ready to Move,6,7,Top
+713,2,Unfurnished,2,Ozone Apartments,45.0,Ready to Move,1,6,Low
+504,1,Semi-Furnished,2,Ozone Apartments,33.0,Ready to Move,5,6,Top
+701,2,Semi-Furnished,2,Ozone Apartments,52.0,Ready to Move,1,7,Low
+844,2,Unfurnished,2,TATA La Montana Phase 1,60.0,Ready to Move,8,10,Top
+576,1,Unfurnished,1,Sovereign,38.0,Ready to Move,5,12,Mid
+1404,4,Furnished,3,Bhaveshwar Height,95.0,Ready to Move,5,13,Mid
+1044,2,Semi-Furnished,2,Festival Apartments,85.0,Ready to Move,1,3,Mid
+790,2,Unfurnished,2,Shri Sai Hills,41.0,Ready to Move,7,7,Top
+587,2,Unfurnished,2,Kishor Shubhankar Heights,85.0,Ready to Move,1,7,Low
+737,2,Semi-Furnished,2,Sai Miracle,65.0,Ready to Move,3,7,Mid
+1080,3,Furnished,3,Bhansali Campus,90.0,Ready to Move,1,7,Low
+586,2,Semi-Furnished,2,Kesar Kingdom,70.0,Ready to Move,9,13,Mid
+445,1,Furnished,1,Saarrthi Souvenir,55.0,Ready to Move,12,12,Top
+427,2,Unfurnished,2,Shree Ganesh Park,27.0,Ready to Move,7,7,Top
+630,2,Furnished,2,Castle Royale,65.0,Ready to Move,1,5,Low
+612,2,Furnished,2,Castle Royale,60.0,Ready to Move,2,3,Mid
+684,2,Unfurnished,2,Kedareshwar Residency,43.0,Ready to Move,4,5,Top
+474,1,Unfurnished,1,D S Srushti,32.0,Ready to Move,7,7,Top
+864,3,Furnished,3,Tanish Orchid,85.0,Ready to Move,12,12,Top
+626,2,Unfurnished,2,Village Residency 1,38.0,Ready to Move,2,4,Mid
+626,2,Unfurnished,2,Village Residency 1,30.0,Ready to Move,4,4,Top
+462,1,Unfurnished,1,Verdura,29.9,Ready to Move,2,7,Mid
+462,1,Unfurnished,1,Verdura,30.0,Ready to Move,4,7,Mid
+432,1,Unfurnished,1,Nirman Brookefield Willows,41.0,Ready to Move,1,3,Mid
+346,1,Unfurnished,1,Nirman Brookefield Willows,34.0,Ready to Move,1,10,Low
+436,1,Unfurnished,1,Silver Hills,35.0,Ready to Move,3,11,Mid
+900,2,Semi-Furnished,3,Mirchandani Bellagio,87.0,Ready to Move,6,6,Top
+713,2,Unfurnished,2,Orchids Lake View,36.0,Ready to Move,6,6,Top
+690,2,Furnished,2,Gloria,55.0,Ready to Move,4,13,Mid
+515,1,Semi-Furnished,1,Gloria,35.0,Ready to Move,4,13,Mid
+690,2,Unfurnished,2,Gloria,51.0,Ready to Move,8,13,Mid
+690,2,Unfurnished,2,Gloria,50.0,Ready to Move,10,13,Top
+504,1,Semi-Furnished,1,Kesar Valley,34.0,Ready to Move,2,10,Low
+1008,3,Unfurnished,3,Vaarahi,130.0,Ready to Move,10,12,Top
+1152,3,Semi-Furnished,3,Vaarahi,120.0,Ready to Move,10,12,Top
+673,2,Furnished,2,Sonigara Blue Dice,56.0,Ready to Move,2,11,Low
+1012,3,Unfurnished,2,Sai Darshan,60.0,Ready to Move,2,4,Mid
+432,1,Semi-Furnished,1,Mega Polis Splendour and Sparklet Smart Homes,42.0,Ready to Move,4,17,Low
+745,2,Furnished,2,Shri Sai 7th Heaven,70.0,Ready to Move,5,11,Mid
+702,2,Unfurnished,2,Shri Sai 7th Heaven,62.0,Ready to Move,1,11,Low
+394,1,Semi-Furnished,1,Shree Om Apartment,28.5,Ready to Move,2,3,Mid
+406,1,Semi-Furnished,1,Pratham Yash Residency,30.0,Ready to Move,6,8,Top
+511,2,Furnished,2,Pratham Yash Residency,58.9,Ready to Move,1,12,Low
+396,1,Unfurnished,1,Vaishnavi Park,16.0,Ready to Move,1,5,Low
+490,2,Furnished,2,Tanishq Apartment,65.0,Ready to Move,2,6,Mid
+482,1,Unfurnished,2,Silver Oak,45.0,Ready to Move,6,8,Top
+756,2,Furnished,2,Shree Ram Classic,65.0,Ready to Move,1,4,Mid
+802,2,Unfurnished,2,Highway Bliss,73.0,Ready to Move,8,11,Mid
+778,2,Unfurnished,2,Sukhwani Campus,110.0,Ready to Move,1,7,Low
+612,2,Unfurnished,2,Sneha Plaza,65.0,Ready to Move,3,3,Top
+612,2,Semi-Furnished,2,Sneha Plaza,75.0,Ready to Move,3,3,Top
+698,2,Semi-Furnished,2,Shreeyog,75.0,Ready to Move,1,5,Low
+670,2,Unfurnished,2,Shravani Residency,70.0,Ready to Move,1,4,Mid
+569,2,Unfurnished,1,Shivyog Residency,62.0,Ready to Move,3,4,Top
+360,1,Semi-Furnished,1,Shivneri Apartment,31.0,Ready to Move,4,4,Top
+655,2,Unfurnished,2,Samarth Carina,58.0,Ready to Move,10,11,Top
+576,1,Unfurnished,1,Harshal Height,44.0,Ready to Move,3,6,Mid
+535,2,Unfurnished,1,Geetai Angan,60.0,Ready to Move,5,7,Mid
+958,3,Semi-Furnished,2,Gagan Vihar,180.0,Ready to Move,4,12,Mid
+925,3,Unfurnished,3,Dev City Complex,78.0,Ready to Move,6,7,Top
+720,2,Semi-Furnished,2,Advika Phase I,60.0,Ready to Move,1,8,Low
+540,2,Unfurnished,2,Advika Phase I,45.0,Ready to Move,5,7,Mid
+654,2,Semi-Furnished,2,Suvidha Nisarg,35.0,Ready to Move,4,11,Mid
+493,1,Unfurnished,1,Suvidha Nisarg,23.0,Ready to Move,1,12,Low
+1008,3,Semi-Furnished,2,Sukhwani Emerald,120.0,Ready to Move,10,12,Top
+906,2,Semi-Furnished,2,Awani Elegance,105.0,Ready to Move,2,4,Mid
+438,1,Unfurnished,1,Palm Ville,45.0,Ready to Move,3,4,Top
+540,2,Furnished,2,Sahil Om Park,45.0,Ready to Move,3,12,Mid
+627,2,Unfurnished,2,Sahil Om Park,44.0,Ready to Move,11,11,Top
+447,2,Unfurnished,2,Sahil Om Park,44.0,Ready to Move,10,11,Top
+655,2,Semi-Furnished,2,Manjari Greens 5,64.0,Ready to Move,5,10,Mid
+486,2,Unfurnished,1,Sai Enclave,27.0,Ready to Move,1,4,Mid
+493,2,Unfurnished,2,Sai Enclave,27.0,Ready to Move,1,6,Low
+403,1,Semi-Furnished,1,Success Towers,70.0,Ready to Move,2,3,Mid
+389,1,Unfurnished,1,Shree Ganesh Apartment,33.0,Ready to Move,3,6,Mid
+720,2,Semi-Furnished,2,Samruddhi Angan,40.0,Ready to Move,4,5,Top
+475,1,Semi-Furnished,1,D S Srushti,36.0,Ready to Move,7,8,Top
+475,1,Unfurnished,1,D S Srushti,32.0,Ready to Move,5,7,Mid
+745,2,Furnished,2,Legacy Square,75.0,Ready to Move,9,11,Top
+489,1,Semi-Furnished,1,Rajveer Galaxy,41.0,Ready to Move,3,6,Mid
+626,2,Furnished,2,J P Homes,58.0,Ready to Move,6,10,Mid
+593,2,Unfurnished,2,Kamalraj Balaji Residency,45.0,Ready to Move,2,7,Mid
+508,1,Unfurnished,2,Modern Pride Apartment,65.0,Ready to Move,4,6,Mid
+576,2,Semi-Furnished,2,Tanish Sai Kunj,45.0,Ready to Move,6,7,Top
+468,1,Semi-Furnished,1,Moraya Krushna Nagari,27.0,Ready to Move,5,11,Mid
+468,1,Semi-Furnished,1,Moraya Krushna Nagari,30.0,Ready to Move,10,12,Top
+439,1,Semi-Furnished,1,Sai Shreya Park,25.5,Ready to Move,5,5,Top
+369,1,Furnished,1,Vasanti Apartment,42.5,Ready to Move,1,6,Low
+403,1,Semi-Furnished,1,Ujwal Terraces,36.0,Ready to Move,6,7,Top
+594,2,Unfurnished,2,Trimurti Chandranil Apartment,35.0,Ready to Move,2,5,Mid
+435,1,Unfurnished,1,Sumit Avenue,23.0,Ready to Move,2,5,Mid
+648,2,Unfurnished,2,Sumangal Shiv Sparsh,60.0,Ready to Move,1,4,Mid
+716,2,Unfurnished,1,Om Namo Residency,37.0,Ready to Move,1,4,Mid
+770,2,Semi-Furnished,2,Nilkanth Apartment,75.0,Ready to Move,4,9,Mid
+382,1,Unfurnished,1,Muktangan Apartment,30.0,Ready to Move,3,4,Top
+403,1,Unfurnished,1,Gurudatta Apartment,25.0,Ready to Move,3,5,Mid
+648,2,Semi-Furnished,2,Ganesh Nakshtram,52.0,Ready to Move,6,9,Mid
+913,2,Semi-Furnished,2,Dharmavat Sunder Sankul,70.0,Ready to Move,3,5,Mid
+515,2,Semi-Furnished,1,Ananta Heights,35.0,Ready to Move,4,4,Top
+456,1,Unfurnished,2,Vishal Vastu Apartment,35.0,Ready to Move,1,5,Low
+360,1,Unfurnished,1,Shree Parvati Apartment,18.0,Ready to Move,1,7,Low
+554,2,Semi-Furnished,3,Vastu Apartment,36.0,Ready to Move,3,4,Top
+351,1,Semi-Furnished,1,Shree Balaji Complex,25.0,Ready to Move,1,4,Mid
+606,2,Furnished,2,Shree Balaji Complex,65.0,Ready to Move,3,10,Mid
+468,1,Unfurnished,1,Sandesh Sahakari CHS,45.0,Ready to Move,5,5,Top
+496,1,Unfurnished,1,Sandesh Sahakari CHS,55.0,Ready to Move,5,5,Top
+720,3,Semi-Furnished,2,Royal Arcade Apartment,90.0,Ready to Move,2,6,Mid
+432,1,Furnished,1,Raut Baug Apartment,40.0,Ready to Move,2,4,Mid
+504,1,Semi-Furnished,1,Mayureshwar Heights CHS,52.0,Ready to Move,3,5,Mid
+404,1,Furnished,1,Manav Mandir Apartment,52.0,Ready to Move,3,4,Top
+396,1,Semi-Furnished,1,Classic Garden CHS,28.0,Ready to Move,1,6,Low
+536,1,Unfurnished,2,Classic Garden CHS,45.0,Ready to Move,4,5,Top
+540,1,Semi-Furnished,2,Saraswati Apartment,25.0,Ready to Move,2,3,Mid
+1314,3,Unfurnished,3,Chintamani Labhde Prestige,275.0,Ready to Move,3,6,Mid
+439,1,Unfurnished,1,Vikaskaran Sunrise Villa,42.0,Ready to Move,5,7,Mid
+442,1,Unfurnished,1,Vikaskaran Sunrise Villa,40.0,Ready to Move,5,7,Mid
+441,1,Unfurnished,1,Rohit Park II,42.0,Ready to Move,4,7,Mid
+600,2,Unfurnished,2,Rohit Park II,52.0,Ready to Move,2,7,Mid
+792,2,Unfurnished,2,Shree Nanda Classic,70.0,Ready to Move,1,8,Low
+418,1,Semi-Furnished,1,Bandal Hari Om Plaza,30.0,Ready to Move,2,4,Mid
+648,2,Unfurnished,1,Shiv Shakti Apartment,35.0,Ready to Move,4,5,Top
+540,1,Unfurnished,1,Savli Apartment,25.0,Ready to Move,7,10,Mid
+398,1,Semi-Furnished,1,Sasane Hingane Township CHS,24.0,Ready to Move,1,4,Mid
+446,1,Semi-Furnished,1,Vaishnavi Valencia,23.0,Ready to Move,4,5,Top
+504,1,Semi-Furnished,1,Shiv The Laurels,52.5,Ready to Move,7,7,Top
+438,1,Unfurnished,1,Samarth Apartment,27.0,Ready to Move,4,6,Mid
+432,1,Semi-Furnished,2,Samarth Apartment,32.0,Ready to Move,4,5,Top
+439,1,Unfurnished,1,Om Apartment,33.0,Ready to Move,3,3,Top
+429,1,Semi-Furnished,1,Moreshwar Apartment,26.0,Ready to Move,1,4,Mid
+569,2,Semi-Furnished,2,Maple Leaf,68.0,Ready to Move,1,3,Mid
+526,2,Furnished,1,Lakshmi Narayan Park,57.0,Ready to Move,2,7,Mid
+540,2,Furnished,1,Krushnakunj Apartment,35.0,Ready to Move,4,4,Top
+410,1,Unfurnished,1,Kanhaiya Complex,25.0,Ready to Move,4,6,Mid
+403,1,Semi-Furnished,1,Chandrama Prestige,30.0,Ready to Move,1,6,Low
+306,1,Unfurnished,1,Chandrama Prestige,15.0,Ready to Move,3,6,Mid
+400,1,Unfurnished,2,Vastu Viram,55.0,Ready to Move,4,4,Top
+396,1,Unfurnished,1,Sai Vihar Aprtment,29.5,Ready to Move,3,4,Top
+505,1,Furnished,1,Durvakur Apartment,35.0,Ready to Move,3,4,Top
+648,1,Unfurnished,1,Chaurang Residency,35.0,Ready to Move,1,6,Low
+554,2,Semi-Furnished,1,Chaitanya Society,45.0,Ready to Move,2,5,Mid
+484,1,Unfurnished,1,Canary Nest Apartment,40.0,Ready to Move,3,3,Top
+792,2,Unfurnished,2,Audumbar Apartment,65.0,Ready to Move,1,8,Low
+459,1,Unfurnished,1,Audumbar Apartment,50.0,Ready to Move,5,6,Top
+302,1,Unfurnished,1,Audumbar Apartment,27.0,Ready to Move,2,8,Mid
+702,3,Unfurnished,2,Ambience Residency,60.0,Ready to Move,3,6,Mid
+605,1,Semi-Furnished,1,Shri Hari Krupa,48.0,Ready to Move,4,5,Top
+806,2,Semi-Furnished,2,Anmol Nayantara Heights,150.0,Ready to Move,2,8,Mid
+680,2,Unfurnished,2,Natraj Group Vela Enclave,61.0,Ready to Move,1,9,Low
+652,2,Furnished,2,Krishna Keval Township,60.0,Ready to Move,1,5,Low
+792,2,Unfurnished,2,Gladiola Paradise,59.0,Ready to Move,2,7,Mid
+659,2,Furnished,2,Sarvodaya Housing Complex,65.0,Ready to Move,2,4,Mid
+403,1,Furnished,1,Natasha Enclave,38.0,Ready to Move,3,5,Mid
+684,2,Unfurnished,2,Natasha Enclave,65.0,Ready to Move,2,6,Mid
+936,2,Semi-Furnished,2,Darvesh Jasmine,60.0,Ready to Move,5,12,Mid
+505,1,Unfurnished,1,Sanjeevani Shyamal Phase II,45.0,Ready to Move,6,6,Top
+797,2,Furnished,1,Padmaja Park,80.0,Ready to Move,3,7,Mid
+1800,3,Semi-Furnished,3,Padmaja Park,325.0,Ready to Move,3,4,Top
+425,1,Semi-Furnished,1,Padmaja Park,42.0,Ready to Move,4,6,Mid
+432,1,Unfurnished,1,Raj Tower,30.0,Ready to Move,3,7,Mid
+586,2,Unfurnished,2,Raj Tower,45.0,Ready to Move,3,6,Mid
+456,1,Unfurnished,1,Tulip Homes,23.0,Ready to Move,4,4,Top
+656,2,Unfurnished,1,Shree krishna vhila,25.0,Ready to Move,1,4,Mid
+396,2,Furnished,1,Choulwar Laxmi Venkatesh Sankul,26.0,Ready to Move,1,6,Low
+950,2,Semi-Furnished,2,Suvidha Apartments,155.0,Ready to Move,1,3,Mid
+720,2,Semi-Furnished,2,ArcVista,50.0,Ready to Move,5,11,Mid
+439,1,Furnished,2,Dwarka Sai,47.0,Ready to Move,6,8,Top
+680,2,Semi-Furnished,2,Suvidha Vrundavan,35.0,Ready to Move,7,7,Top
+659,2,Semi-Furnished,2,Suvidha Vrundavan,32.0,Ready to Move,2,6,Mid
+432,1,Unfurnished,1,Nyati Spa Villas,30.0,Ready to Move,1,4,Mid
+468,1,Semi-Furnished,1,MR Pride,37.0,Ready to Move,1,7,Low
+369,1,Unfurnished,1,Sakar,17.5,Ready to Move,2,4,Mid
+426,1,Unfurnished,1,Stark Aura,37.0,Ready to Move,2,8,Mid
+576,2,Unfurnished,2,Balaji Apartment,65.0,Ready to Move,1,5,Low
+457,1,Unfurnished,1,Balaji Apartment,45.0,Ready to Move,2,5,Mid
+972,3,Furnished,3,SSD Sai Orchards,100.0,Ready to Move,5,8,Mid
+720,2,Furnished,2,Nisarg Varsha,100.0,Ready to Move,1,4,Mid
+382,1,Unfurnished,1,Urban Gram Chakan,21.0,Ready to Move,2,4,Mid
+756,2,Unfurnished,2,Urban Gram Chakan,50.0,Ready to Move,7,12,Mid
+479,2,Unfurnished,2,ArcVista,50.0,Ready to Move,1,11,Low
+684,2,Unfurnished,2,Rudraksh,51.0,Ready to Move,5,11,Mid
+697,2,Unfurnished,2,Shree Ram Hill View,55.0,Ready to Move,5,8,Mid
+747,2,Furnished,2,Arun Blu,99.0,Ready to Move,4,11,Mid
+582,2,Furnished,2,Elegent Residency,77.0,Ready to Move,8,12,Mid
+594,2,Unfurnished,2,Sai Crest,72.0,Ready to Move,6,13,Mid
+396,1,Unfurnished,1,Vastu Forest Nest,17.0,Ready to Move,7,10,Mid
+403,1,Unfurnished,1,Pearl Apartment,35.0,Ready to Move,1,4,Mid
+864,3,Semi-Furnished,3,Lal Deval Housing Society,140.0,Ready to Move,2,3,Mid
+720,2,Unfurnished,2,Keshav CHS,110.0,Ready to Move,1,5,Low
+1080,3,Furnished,3,Kenjale Light House,240.0,Ready to Move,3,9,Mid
+713,2,Furnished,2,Dev City,75.0,Ready to Move,7,7,Top
+720,2,Unfurnished,2,Windsor County,55.0,Ready to Move,4,11,Mid
+468,2,Semi-Furnished,2,Aarav Florista,38.0,Ready to Move,7,10,Mid
+403,1,Unfurnished,1,Primera Homes,34.0,Ready to Move,3,11,Mid
+396,2,Unfurnished,2,Dreams Nivara,20.0,Ready to Move,4,4,Top
+407,2,Unfurnished,2,Dreams Nivara,18.0,Ready to Move,3,4,Top
+810,3,Unfurnished,3,Ashwini Palace,80.0,Ready to Move,7,7,Top
+684,2,Unfurnished,2,Aaditya Terraces,63.0,Ready to Move,1,12,Low
+576,2,Semi-Furnished,2,Suchandra Corner,58.0,Ready to Move,2,5,Mid
+420,1,Unfurnished,1,Binawat Paradise,18.0,Ready to Move,5,6,Top
+564,2,Semi-Furnished,2,Binawat Paradise,38.0,Ready to Move,3,6,Mid
+396,1,Unfurnished,1,Nandini Atharva,30.0,Ready to Move,3,4,Top
+655,2,Semi-Furnished,2,Nandini Atharva,36.0,Ready to Move,1,7,Low
+1260,3,Semi-Furnished,3,Anmol Residency,125.0,Ready to Move,5,7,Mid
+691,2,Unfurnished,2,Mayuri Residency,45.0,Ready to Move,5,6,Top
+936,3,Unfurnished,2,Friends Enclave,109.0,Ready to Move,1,2,Mid
+410,1,Semi-Furnished,1,Navratna Swastik,35.0,Ready to Move,3,5,Mid
+624,2,Semi-Furnished,2,Navratna Swastik,50.0,Ready to Move,2,3,Mid
+684,2,Unfurnished,2,Vardhaman Vatika,75.0,Ready to Move,5,8,Mid
+549,2,Unfurnished,2,Venkatesh Sankul,40.0,Ready to Move,2,5,Mid
+535,1,Unfurnished,1,Shivane Riverview Society Carpet Area 535 sqft Status Ready to Move Floor 3 out of 5 Transaction Resale Furnishing Unfurnished Society Riverview Society,26.0,Ready to Move,3,5,Mid
+792,2,Semi-Furnished,2,Vanaraji Heights,120.0,Ready to Move,3,12,Mid
+432,1,Unfurnished,1,Vishakha Regency,35.0,Ready to Move,1,5,Low
+432,1,Semi-Furnished,1,Gulmohar Horizon,35.0,Ready to Move,3,7,Mid
+420,1,Unfurnished,1,Mahalaxmi Heights,30.0,Ready to Move,1,7,Low
+684,2,Unfurnished,2,Ambegaon Dutta Niwas Society Carpet Area 684 sqft Status Ready to Move Floor 7 out of 7 Transaction Resale Furnishing Unfurnished Society Dutta Niwas Society,50.8,Ready to Move,7,7,Top
+529,2,Unfurnished,2,Rahi Regancy Narhe,32.0,Ready to Move,5,6,Top
+684,2,Semi-Furnished,2,Gayatri Apartment,78.0,Ready to Move,3,4,Top
+570,1,Furnished,1,Shree Ganesh Vihar,49.0,Ready to Move,5,6,Top
+572,2,Semi-Furnished,2,Kamal Baug Society,37.0,Ready to Move,10,12,Top
+446,1,Semi-Furnished,1,Solitaire Paradise,42.0,Ready to Move,2,7,Mid
+446,1,Semi-Furnished,1,Solitaire Paradise,41.0,Ready to Move,4,8,Mid
+756,2,Semi-Furnished,3,Dhanlaxmi Residency,95.0,Ready to Move,6,9,Mid
+638,2,Semi-Furnished,2,Venkatesh Residency,35.0,Ready to Move,5,7,Mid
+441,1,Semi-Furnished,1,Venkatesh Residency,27.0,Ready to Move,3,7,Mid
+691,2,Semi-Furnished,2,Venkatesh Residency,32.0,Ready to Move,6,7,Top
+576,2,Unfurnished,2,Venkatesh Residency,30.0,Ready to Move,2,6,Mid
+811,2,Unfurnished,2,Wakad Dhanraj Park Society Carpet Area 811 sqft Status Ready to Move Floor 6 out of 6 Transaction Resale Furnishing Unfurnished Society Dhanraj Park Society,75.0,Ready to Move,6,6,Top
+605,2,Furnished,2,Satya River Apartment,95.0,Ready to Move,2,6,Mid
+608,2,Furnished,2,Shubhashree Residency,72.0,Ready to Move,2,7,Mid
+734,2,Semi-Furnished,2,Sunshine Hills Phase 2,50.0,Ready to Move,2,12,Low
+441,1,Semi-Furnished,1,Bhakti Pride Apartment,25.0,Ready to Move,2,4,Mid
+446,1,Semi-Furnished,1,Setpal Karishma Platinum,38.0,Ready to Move,2,5,Mid
+428,1,Semi-Furnished,1,Setpal Karishma Platinum,27.0,Ready to Move,4,4,Top
+424,1,Unfurnished,1,Gandharva Nagari Community,25.0,Ready to Move,5,6,Top
+499,1,Unfurnished,1,Nakshatra,22.0,Ready to Move,2,4,Mid
+720,2,Unfurnished,2,Shobha Empire,48.0,Ready to Move,3,5,Mid
+684,2,Semi-Furnished,2,Venkatesh Paradise,43.0,Ready to Move,5,11,Mid
+711,2,Unfurnished,2,Shruti Icon,60.0,Ready to Move,6,6,Top
+702,2,Unfurnished,2,Green Estate,40.0,Ready to Move,8,9,Top
+689,2,Semi-Furnished,2,Green Estate,42.0,Ready to Move,5,7,Low
+684,2,Furnished,2,Yogesh Gandharv Excellencee,60.0,Ready to Move,8,12,Mid
+360,1,Unfurnished,1,Balaji Nisarg,20.0,Ready to Move,1,4,Mid
+396,1,Unfurnished,1,Balaji Nisarg,18.0,Ready to Move,1,5,Low
+468,1,Furnished,1,Alpine Aura,36.0,Ready to Move,1,8,Low
+439,2,Unfurnished,1,Amar Deep,52.0,Ready to Move,3,3,Top
+410,1,Semi-Furnished,1,Amar Preet,35.0,Ready to Move,2,5,Mid
+626,2,Semi-Furnished,2,Amar Plaza,125.0,Ready to Move,1,3,Mid
+1152,3,Semi-Furnished,3,Anshul Athena,113.0,Ready to Move,5,11,Mid
+594,2,Furnished,2,Celebria Apartment,86.0,Ready to Move,1,4,Mid
+612,2,Semi-Furnished,2,The Kate Residency,65.0,Ready to Move,4,4,Top
+495,1,Unfurnished,1,Arihanta Aastha,41.0,Ready to Move,3,4,Top
+403,1,Unfurnished,1,ARK Prem Alfa Homes Phase 2,25.5,Ready to Move,7,8,Top
+468,1,Unfurnished,2,Amber Hills,35.0,Ready to Move,1,4,Mid
+438,1,Unfurnished,1,Ashirwad Classic,33.0,Ready to Move,2,4,Mid
+2160,4,Unfurnished,1,Ashirwad Residency,325.0,Ready to Move,1,5,Low
+1058,4,Semi-Furnished,3,Madhu Kamal Apartments,170.0,Ready to Move,2,4,Mid
+410,1,Unfurnished,1,Project Atur Nagar,25.0,Ready to Move,4,4,Top
+972,3,Semi-Furnished,3,Atur Terraces,150.0,Ready to Move,3,5,Mid
+972,3,Furnished,3,Atur Terraces,145.0,Ready to Move,2,5,Mid
+418,1,Unfurnished,1,Ekta Residency,30.0,Ready to Move,3,6,Mid
+619,2,Unfurnished,2,Bansal City,43.0,Ready to Move,1,6,Low
+365,1,Unfurnished,1,Bansal City,30.0,Ready to Move,5,6,Top
+616,2,Unfurnished,2,Belvalkar Solacia,38.0,Ready to Move,1,7,Low
+846,2,Unfurnished,2,Bhansali Whispering Winds,95.0,Ready to Move,1,7,Low
+540,2,Unfurnished,2,Bharucha Collina,25.0,Ready to Move,3,12,Mid
+627,2,Unfurnished,2,Bharucha Collina,40.5,Ready to Move,5,11,Mid
+612,2,Furnished,2,Krishna Vatika,55.0,Ready to Move,1,6,Low
+439,1,Semi-Furnished,1,Bora Planet,51.0,Ready to Move,2,8,Mid
+396,1,Semi-Furnished,1,DSK Janhavi,40.0,Ready to Move,1,5,Low
+648,2,Semi-Furnished,2,DSK Vidyanagari,78.0,Ready to Move,3,4,Top
+720,2,Semi-Furnished,2,Project Kamala City,65.0,Ready to Move,4,7,Mid
+436,1,Semi-Furnished,1,Project Kamala City,40.5,Ready to Move,6,6,Top
+598,2,Unfurnished,2,Ozone Greens,33.0,Ready to Move,1,4,Mid
+387,1,Unfurnished,1,Shiv Classic,29.0,Ready to Move,5,7,Mid
+383,1,Unfurnished,1,Shiv Classic,32.0,Ready to Move,5,8,Mid
+425,1,Semi-Furnished,1,Shiv Classic,30.0,Ready to Move,7,7,Top
+540,2,Unfurnished,2,Project Motiram Nagar,68.0,Ready to Move,2,5,Mid
+540,2,Semi-Furnished,2,Balbhim Park,55.0,Ready to Move,5,6,Top
+454,1,Unfurnished,1,Sawant Vihar,45.0,Ready to Move,2,6,Mid
+976,2,Unfurnished,2,Rahi Emerald,62.0,Ready to Move,5,6,Top
+432,2,Furnished,2,Vinayak Park,32.0,Ready to Move,4,5,Top
+432,1,Unfurnished,1,Vinayak Park,20.5,Ready to Move,3,4,Top
+432,1,Unfurnished,2,Nancy Gardens,36.0,Ready to Move,7,7,Top
+400,1,Semi-Furnished,1,Rajyog Society,39.0,Ready to Move,1,3,Mid
+398,1,Semi-Furnished,1,Rajyog Society,25.0,Ready to Move,1,4,Mid
+720,2,Semi-Furnished,2,Parande Woods,60.0,Ready to Move,9,10,Top
+365,1,Unfurnished,1,Sara Orchids,18.0,Ready to Move,12,13,Top
+467,1,Furnished,1,Sara Orchids,25.0,Ready to Move,11,13,Top
+513,1,Unfurnished,1,Sara Orchids,21.0,Ready to Move,1,13,Low
+436,1,Unfurnished,1,Sara Orchids,26.0,Ready to Move,12,13,Top
+467,1,Unfurnished,2,Sara Orchids,25.0,Ready to Move,5,12,Mid
+631,2,Unfurnished,2,Sarthak Beaulieu,38.5,Ready to Move,9,9,Top
+648,2,Unfurnished,2,Tara City,30.0,Ready to Move,3,12,Mid
+463,1,Unfurnished,1,Tara City,23.0,Ready to Move,10,12,Top
+708,2,Furnished,2,Madhav Nilay,60.0,Ready to Move,4,4,Top
+418,1,Semi-Furnished,1,Induban Residency,35.0,Ready to Move,6,9,Mid
+446,1,Semi-Furnished,1,Induban Residency,32.0,Ready to Move,3,8,Mid
+576,2,Unfurnished,2,Shubh Gloriya,47.0,Ready to Move,1,5,Low
+437,1,Unfurnished,1,Sukhwani Palms,32.0,Ready to Move,6,11,Mid
+850,2,Semi-Furnished,2,Mayuri Enclave,46.0,Ready to Move,3,8,Mid
+738,2,Semi-Furnished,2,Sukhwani Bliss,100.0,Ready to Move,1,7,Low
+364,1,Semi-Furnished,1,Shivam Guruvihar,20.0,Ready to Move,4,5,Top
+673,2,Furnished,2,Ujjwal High Bliss,61.0,Ready to Move,2,8,Mid
+842,3,Unfurnished,2,The Metropolitan,110.0,Ready to Move,11,12,Top
+396,1,Unfurnished,1,Krishna Paradise,25.0,Ready to Move,6,13,Mid
+421,1,Unfurnished,1,Krishna Paradise,20.5,Ready to Move,4,12,Mid
+667,2,Unfurnished,2,Rustic Paradise,60.0,Ready to Move,6,7,Top
+396,1,Unfurnished,1,Nandini Atharva,30.0,Ready to Move,3,6,Mid
+612,2,Semi-Furnished,1,Rohit Residency,40.0,Ready to Move,5,7,Mid
+360,1,Unfurnished,1,Radiant Heights,30.0,Ready to Move,3,5,Mid
+605,2,Semi-Furnished,1,Sai Ganesh Dham,30.0,Ready to Move,5,5,Top
+446,1,Unfurnished,1,Sahara Apartment,42.0,Ready to Move,4,5,Top
+660,2,Semi-Furnished,2,Gulmohar Blossom,69.0,Ready to Move,4,6,Mid
+497,1,Unfurnished,1,Chourang Smitshilp,38.0,Ready to Move,1,7,Low
+576,2,Furnished,2,Viman Nagar Parijaat Society Carpet Area 576 sqft Status Ready to Move Floor 4 out of 6 Transaction Resale Furnishing Furnished Society Parijaat Society,135.0,Ready to Move,4,6,Mid
+479,2,Furnished,2,D9 Popular Nagar,65.0,Ready to Move,3,4,Top
+648,2,Unfurnished,2,Shree Hans Garden,62.0,Ready to Move,1,5,Low
+580,2,Semi-Furnished,2,Shree Hans Garden,60.0,Ready to Move,2,5,Mid
+656,2,Semi-Furnished,2,Shivam Residency,75.0,Ready to Move,1,5,Low
+432,1,Unfurnished,1,Tanish Sanskruti,35.0,Ready to Move,5,7,Mid
+479,2,Semi-Furnished,1,Akshay Residency,55.0,Ready to Move,4,5,Top
+706,2,Semi-Furnished,2,Mahadev Apartments,100.0,Ready to Move,4,5,Top
+666,2,Unfurnished,2,Pudumjee Paradise,100.0,Ready to Move,2,4,Mid
+450,1,Unfurnished,1,Binawat Residency,30.0,Ready to Move,1,3,Mid
+908,2,Semi-Furnished,2,Dimension Heights,48.0,Ready to Move,1,6,Low
+709,2,Unfurnished,2,Satyam Greenfields,75.0,Ready to Move,3,7,Mid
+407,1,Unfurnished,1,Wagholi Wagheshwar Society Carpet Area 407 sqft Status Ready to Move Floor 3 out of 4 Transaction Resale Furnishing Unfurnished Society Wagheshwar Society,20.0,Ready to Move,3,4,Top
+540,1,Semi-Furnished,1,Chandrama Residency,28.0,Ready to Move,1,4,Mid
+536,2,Furnished,2,Tirumala Residency,45.0,Ready to Move,4,5,Top
+508,2,Unfurnished,2,Tirumala Residency,35.0,Ready to Move,4,5,Top
+432,1,Unfurnished,1,Project Amba Nagari,37.0,Ready to Move,2,6,Mid
+329,1,Unfurnished,1,Project Amba Nagari,40.0,Ready to Move,2,5,Mid
+385,1,Semi-Furnished,1,Amit Colori,32.0,Ready to Move,11,12,Top
+360,1,Unfurnished,1,Amit Colori,40.0,Ready to Move,1,10,Low
+418,1,Semi-Furnished,1,Amit Colori,32.0,Ready to Move,9,12,Top
+326,1,Semi-Furnished,1,Hillock Towers,33.0,Ready to Move,4,11,Mid
+610,2,Semi-Furnished,2,Arun Park,55.0,Ready to Move,6,6,Top
+614,2,Semi-Furnished,2,Arun Park,55.0,Ready to Move,6,6,Top
+440,1,Unfurnished,1,Arun Park,36.0,Ready to Move,5,6,Top
+698,2,Semi-Furnished,2,Oxygen Valley,53.0,Ready to Move,7,7,Top
+414,1,Semi-Furnished,1,Oxygen Valley,32.0,Ready to Move,1,5,Low
+571,2,Unfurnished,1,Laxmi Niwas,70.0,Ready to Move,3,3,Top
+675,2,Furnished,2,Belvalkar Chaitrangan,56.0,Ready to Move,2,7,Mid
+392,1,Unfurnished,1,Bhakti Darshan,44.0,Ready to Move,2,6,Mid
+666,2,Unfurnished,2,Bhakti Enclave,45.0,Ready to Move,1,3,Mid
+583,2,Unfurnished,2,Bhakti Paradise,58.0,Ready to Move,2,4,Mid
+583,2,Furnished,2,Shraddha Heritage,66.5,Ready to Move,1,3,Mid
+600,2,Unfurnished,2,Bharucha Collina,45.0,Ready to Move,2,10,Low
+612,2,Semi-Furnished,2,Ujwal Park Apartments,54.4,Ready to Move,1,4,Mid
+684,2,Unfurnished,2,Bora Happy Homes,75.0,Ready to Move,1,3,Mid
+396,1,Semi-Furnished,1,Bramha Aangan,39.0,Ready to Move,1,4,Mid
+734,2,Unfurnished,2,Bramha Aangan Carpet Area 734 sqft Status Ready to Move Floor 1 out of 7 Transaction Resale Furnishing Unfurnished Society Bramha Aangan,75.0,Ready to Move,1,7,Low
+1015,3,Unfurnished,3,Bramha Estate,87.0,Ready to Move,6,11,Mid
+1080,3,Semi-Furnished,3,Bramha Estate,87.0,Ready to Move,6,11,Mid
+893,3,Unfurnished,2,Bramha Estate,95.0,Ready to Move,6,7,Top
+392,1,Unfurnished,1,Bibwewadi Vimal Vihar Society Carpet Area 392 sqft Status Ready to Move Floor 2 out of 3 Transaction Resale Furnishing Unfurnished Society Vimal Vihar Society,46.0,Ready to Move,2,3,Mid
+616,1,Unfurnished,2,Whitefield Apartments,65.0,Ready to Move,3,8,Mid
+907,3,Semi-Furnished,3,Dwarkadheesh Residency,87.0,Ready to Move,1,7,Low
+1123,3,Semi-Furnished,3,Shubhashree Residency,105.0,Ready to Move,4,8,Mid
+1008,3,Semi-Furnished,2,Bhakti Pride Apartment,80.0,Ready to Move,3,3,Top
+576,2,Unfurnished,2,Setpal Karishma Platinum,65.0,Ready to Move,4,4,Top
+879,3,Unfurnished,3,Gandharva Nagari Community,60.0,Ready to Move,5,6,Top
+396,1,Unfurnished,1,Gandharva Nagari Community,25.0,Ready to Move,6,7,Top
+367,1,Semi-Furnished,1,Shreeniwas Greenland County,36.0,Ready to Move,3,5,Mid
+443,1,Unfurnished,1,Kamaldeep Gardens,30.0,Ready to Move,3,4,Top
+900,3,Semi-Furnished,2,Chandra Nagari,150.0,Ready to Move,3,3,Top
+446,1,Unfurnished,1,Moraya Nagari,37.0,Ready to Move,1,4,Mid
+406,2,Semi-Furnished,1,Paschimanagari,76.0,Ready to Move,2,4,Mid
+785,2,Semi-Furnished,2,Etasha Apartment,50.0,Ready to Move,7,9,Top
+718,2,Unfurnished,2,SilverWood,73.5,Ready to Move,2,4,Mid
+900,2,Semi-Furnished,2,The Latitude,110.0,Ready to Move,4,12,Mid
+864,2,Unfurnished,2,Moghul Garden,200.0,Ready to Move,1,7,Low
+792,2,Unfurnished,2,Aawas,52.0,Ready to Move,3,6,Mid
+760,2,Furnished,2,Aawas,55.0,Ready to Move,3,4,Top
+1289,2,Furnished,2,Olive Orchard,80.0,Ready to Move,1,11,Low
+612,2,Unfurnished,2,Olive Orchard,52.0,Ready to Move,2,11,Low
+708,2,Unfurnished,2,Nakshatra,60.0,Ready to Move,1,11,Low
+618,2,Unfurnished,2,Alfa Landmark,42.0,Ready to Move,8,12,Mid
+626,2,Unfurnished,2,Alfa Landmark,43.0,Ready to Move,8,12,Mid
+648,2,Semi-Furnished,2,Alfa Landmark,45.0,Ready to Move,9,12,Top
+441,1,Unfurnished,1,Alfa Landmark,32.0,Ready to Move,8,13,Mid
+441,1,Furnished,1,Alfa Landmark,35.0,Ready to Move,9,10,Top
+428,1,Unfurnished,1,Alfa Landmark,32.0,Ready to Move,8,10,Top
+436,1,Unfurnished,1,Aryavedant Residency,38.0,Ready to Move,4,6,Mid
+454,1,Semi-Furnished,2,Shiv Sai Vishwa,60.0,Ready to Move,3,7,Mid
+346,1,Unfurnished,1,Shiv Sai Vishwa,56.0,Ready to Move,2,8,Mid
+475,1,Semi-Furnished,1,Indu Heights,34.0,Ready to Move,4,11,Mid
+518,1,Semi-Furnished,1,Vishwavihar,37.0,Ready to Move,7,10,Mid
+288,1,Furnished,1,Laxmi Heights,42.0,Ready to Move,3,8,Mid
+540,1,Unfurnished,2,Sunrise Fortune,37.0,Ready to Move,1,5,Low
+472,1,Semi-Furnished,1,Sunrise Fortune,35.0,Ready to Move,2,4,Mid
+634,2,Unfurnished,2,Shree Sai Swapna Nagari,26.0,Ready to Move,3,3,Top
+612,2,Unfurnished,2,Shree Sai Swapna Nagari,25.0,Ready to Move,5,6,Top
+702,2,Unfurnished,2,Shree Sai Swapna Nagari,32.0,Ready to Move,9,12,Top
+612,2,Unfurnished,2,Shree Sai Swapna Nagari,25.0,Ready to Move,5,7,Mid
+706,2,Semi-Furnished,2,Aurum Vatika Phase 2,63.0,Ready to Move,3,5,Mid
+371,1,Semi-Furnished,1,Radhika Park,30.0,Ready to Move,2,6,Mid
+755,2,Unfurnished,2,Dream Lynnea,42.0,Ready to Move,10,12,Top
+436,1,Unfurnished,1,Guruchaya Residency,50.0,Ready to Move,2,3,Mid
+379,1,Unfurnished,1,Naiknavare Dwarka Township,16.8,Ready to Move,2,4,Mid
+408,1,Unfurnished,1,Naiknavare Dwarka Township,17.5,Ready to Move,3,7,Mid
+432,1,Semi-Furnished,1,Naiknavare Dwarka Township,22.0,Ready to Move,1,5,Low
+403,1,Unfurnished,1,Naiknavare Dwarka Township,19.0,Ready to Move,3,8,Mid
+382,1,Unfurnished,1,Naiknavare Dwarka Township,18.0,Ready to Move,2,4,Mid
+303,1,Unfurnished,1,Naiknavare Dwarka Township,16.0,Ready to Move,8,8,Top
+2160,3,Semi-Furnished,3,Nandan Festiva,500.0,Ready to Move,5,12,Mid
+765,2,Semi-Furnished,2,Nilesh Samruddhi,55.0,Ready to Move,7,12,Mid
+396,1,Semi-Furnished,1,Panchavati Nest,35.0,Ready to Move,2,5,Mid
+655,2,Unfurnished,2,Pushpa Pearl,52.0,Ready to Move,5,8,Mid
+720,2,Furnished,2,G Corp Hillside,45.0,Ready to Move,7,8,Top
+714,2,Unfurnished,2,Gagan Micasaa,55.0,Ready to Move,2,12,Low
+828,2,Furnished,2,Gagan Micasaa,55.0,Ready to Move,1,15,Low
+714,2,Unfurnished,2,Gagan Micasaa,50.0,Ready to Move,8,14,Mid
+612,2,Unfurnished,2,Gagan Akanksha,30.0,Ready to Move,6,7,Top
+565,2,Unfurnished,2,Gagan Akanksha,32.0,Ready to Move,4,8,Mid
+536,2,Unfurnished,2,Gagan Akanksha,40.0,Ready to Move,5,7,Mid
+536,2,Unfurnished,2,Gagan Akanksha,35.0,Ready to Move,3,7,Mid
+432,1,Unfurnished,1,Ganga Aria,40.0,Ready to Move,3,15,Top
+900,2,Semi-Furnished,2,Siddhartha Tower,60.0,Ready to Move,2,7,Mid
+459,1,Semi-Furnished,1,Kanchan Comfortz,38.0,Ready to Move,1,8,Low
+449,1,Semi-Furnished,1,Kanchan Comfortz,40.0,Ready to Move,2,9,Low
+1134,3,Semi-Furnished,3,Karia Konark Meadows,105.0,Ready to Move,3,11,Mid
+901,1,Semi-Furnished,3,Kasturi Eon Homes,130.0,Ready to Move,3,20,Mid
+473,1,Unfurnished,1,Kate Hollyhock City,35.0,Ready to Move,5,9,Mid
+473,1,Unfurnished,1,Kate Hollyhock City,35.0,Ready to Move,7,9,Top
+360,1,Semi-Furnished,1,Kate Hollyhock City,40.0,Ready to Move,9,10,Top
+684,2,Semi-Furnished,2,Unique Enclave,75.0,Ready to Move,4,5,Top
+821,2,Furnished,2,Unique Enclave,95.0,Ready to Move,3,4,Top
+660,2,Unfurnished,2,Kaypee 14 Plus,40.0,Ready to Move,2,4,Mid
+639,2,Semi-Furnished,2,Saudagar Garden,45.0,Ready to Move,4,7,Mid
+621,2,Unfurnished,2,Bhujbal Dew Drops,40.0,Ready to Move,3,4,Top
+612,2,Unfurnished,2,Aqua Blue,60.0,Ready to Move,1,11,Low
+755,2,Unfurnished,2,Aqua Blue,62.0,Ready to Move,4,12,Mid
+498,1,Unfurnished,1,Hemant Sunville,40.0,Ready to Move,5,10,Mid
+639,2,Unfurnished,2,Hemant Sunville,52.0,Ready to Move,1,13,Low
+468,1,Semi-Furnished,1,Ceratec City,32.0,Ready to Move,6,11,Mid
+763,2,Unfurnished,2,Chandan Colozium,70.0,Ready to Move,4,12,Mid
+989,3,Unfurnished,3,Oriana,120.0,Ready to Move,5,11,Mid
+648,2,Unfurnished,2,Sunshine,40.0,Ready to Move,5,9,Mid
+814,2,Unfurnished,2,Clover Casablanca,42.0,Ready to Move,1,5,Low
+288,1,Furnished,1,Clover Casablanca,35.0,Ready to Move,4,4,Top
+527,1,Semi-Furnished,1,Shaurya Homes,42.0,Ready to Move,3,4,Top
+310,2,Unfurnished,2,Dreams Nivara,28.0,Ready to Move,1,4,Mid
+294,2,Unfurnished,2,Dreams Nivara,15.1,Ready to Move,3,4,Top
+844,3,Unfurnished,2,Majestique City,70.0,Ready to Move,1,12,Low
+658,2,Semi-Furnished,2,Ira,49.5,Ready to Move,11,12,Top
+356,1,Unfurnished,1,Apla Ghar Ranjangaon,21.0,Ready to Move,3,7,Mid
+464,1,Unfurnished,1,Aapla Ghar Lonikand,29.0,Ready to Move,4,12,Mid
+1130,3,Furnished,2,Bhaveshwar Height,77.0,Ready to Move,3,13,Low
+495,1,Semi-Furnished,1,Hir Ban Residency,34.0,Ready to Move,5,5,Top
+472,1,Unfurnished,1,Gokulam,33.0,Ready to Move,6,6,Top
+446,1,Semi-Furnished,1,Kesar Valley,32.0,Ready to Move,3,8,Mid
+420,2,Unfurnished,2,Eiffel Xrbia,24.0,Ready to Move,7,7,Top
+504,1,Unfurnished,2,Shri Sai 7th Heaven,36.0,Ready to Move,2,12,Low
+497,1,Semi-Furnished,2,Shri Sai 7th Heaven,38.0,Ready to Move,6,12,Mid
+726,2,Unfurnished,2,Tanish Icon,60.0,Ready to Move,4,10,Mid
+461,1,Unfurnished,1,B U Bhandari Skyline,38.0,Ready to Move,4,5,Top
+457,2,Semi-Furnished,2,Tanishq Apartment,55.0,Ready to Move,6,8,Top
+612,2,Semi-Furnished,2,Mithila Nagari,60.0,Ready to Move,1,4,Mid
+670,2,Unfurnished,2,Amber Classic,55.0,Ready to Move,3,11,Mid
+504,2,Furnished,1,Yashada Siddhi,55.0,Ready to Move,2,3,Mid
+634,2,Unfurnished,2,Sushrut Residency,54.0,Ready to Move,4,7,Mid
+792,2,Unfurnished,2,Sukhwani Campus,110.0,Ready to Move,1,7,Low
+684,2,Semi-Furnished,2,Sukhwani Campus,85.0,Ready to Move,1,6,Low
+490,1,Unfurnished,1,Siddhant Shivshrushti,28.0,Ready to Move,1,4,Mid
+418,1,Unfurnished,1,Shri Siddhi Sankalp Apartment,31.0,Ready to Move,1,6,Low
+452,1,Semi-Furnished,1,Anjani Gaatha,30.0,Ready to Move,6,7,Top
+468,1,Unfurnished,1,Anjani Gaatha,32.0,Ready to Move,7,7,Top
+338,1,Furnished,1,Anjani Gaatha,43.0,Ready to Move,3,5,Mid
+441,1,Unfurnished,1,Anjani Gaatha,27.0,Ready to Move,5,8,Mid
+715,2,Furnished,2,Gagan Lawish,51.0,Ready to Move,1,12,Low
+855,2,Unfurnished,2,Gagan Lawish,60.0,Ready to Move,3,11,Mid
+706,2,Furnished,2,Sentosa Elysium,67.0,Ready to Move,2,7,Mid
+446,1,Unfurnished,1,Kushal Swarnali,25.0,Ready to Move,4,11,Mid
+360,1,Unfurnished,1,Kushal Swarnali,19.0,Ready to Move,10,12,Top
+432,1,Unfurnished,1,Kushal Swarnali,25.0,Ready to Move,9,11,Top
+648,2,Semi-Furnished,2,Kushal Swarnali,35.0,Ready to Move,10,12,Top
+403,1,Furnished,1,Kushal Swarnali,24.0,Ready to Move,1,9,Low
+430,1,Semi-Furnished,1,Kushal Swarnali,23.0,Ready to Move,9,12,Top
+357,1,Unfurnished,1,Kushal Swarnali,17.0,Ready to Move,9,12,Top
+658,2,Unfurnished,2,Kushal Swarnali,31.0,Ready to Move,10,11,Top
+664,2,Unfurnished,2,Sonigara Blue Dice,55.0,Ready to Move,5,11,Mid
+432,1,Unfurnished,1,Sonigara Excluzee,43.5,Ready to Move,3,8,Mid
+576,2,Unfurnished,1,Sai Crest,62.0,Ready to Move,1,4,Mid
+668,2,Unfurnished,2,Veronica Park,55.0,Ready to Move,7,8,Top
+625,2,Semi-Furnished,2,Essen Aishwaryam Courtyard Phase 2,54.7,Ready to Move,2,14,Low
+652,2,Unfurnished,2,ACME Alcina,65.0,Ready to Move,1,4,Mid
+417,1,Semi-Furnished,1,MR Pride,31.0,Ready to Move,1,6,Low
+552,2,Unfurnished,2,Ceratec Antara,40.0,Ready to Move,1,7,Low
+310,1,Unfurnished,1,Aapla Ghar Talegaon Dhamdhere,16.0,Ready to Move,2,4,Mid
+469,1,Unfurnished,1,Ratna Heritage,36.0,Ready to Move,7,7,Top
+647,2,Semi-Furnished,2,Prakruti Heights,55.0,Ready to Move,3,5,Mid
+540,2,Semi-Furnished,2,Prakruti Heights,42.0,Ready to Move,4,8,Mid
+396,1,Unfurnished,1,Pitaram Classic,30.0,Ready to Move,1,4,Mid
+468,1,Semi-Furnished,1,Pitaram Classic,30.0,Ready to Move,4,5,Top
+407,1,Unfurnished,1,Omkar Garden,42.0,Ready to Move,1,4,Mid
+403,1,Semi-Furnished,1,Nirmitee Nest,24.0,Ready to Move,5,5,Top
+893,2,Furnished,2,Ganesh Shrishti,95.0,Ready to Move,1,5,Low
+634,2,Semi-Furnished,2,Abhijit Park,52.0,Ready to Move,1,5,Low
+673,2,Unfurnished,2,Spine City,32.0,Ready to Move,5,11,Mid
+412,1,Unfurnished,1,Spine City,22.0,Ready to Move,7,8,Top
+490,1,Semi-Furnished,1,Spine City,24.0,Ready to Move,5,7,Mid
+918,2,Furnished,3,Kumar Galaxy,180.0,Ready to Move,5,6,Top
+864,3,Furnished,3,Madhav Apartment,225.0,Ready to Move,1,1,Top
+667,2,Unfurnished,2,Galaxy Vineet,60.0,Ready to Move,5,12,Mid
+662,2,Unfurnished,2,Galaxy Vineet,70.0,Ready to Move,10,13,Top
+439,1,Semi-Furnished,1,Galaxy Vineet,45.0,Ready to Move,10,12,Top
+454,1,Unfurnished,1,Combines Splendour,56.0,Ready to Move,6,6,Top
+752,2,Furnished,2,Guruprasad Castelsilano,80.0,Ready to Move,1,3,Mid
+1008,3,Furnished,3,Bhuvan Bloomingdales Apartments,150.0,Ready to Move,2,6,Mid
+712,2,Semi-Furnished,2,Ellora Elite,70.0,Ready to Move,2,4,Mid
+767,2,Unfurnished,2,Parvati Park,70.0,Ready to Move,3,4,Top
+468,1,Unfurnished,1,Omkar Park,40.0,Ready to Move,1,4,Mid
+731,2,Unfurnished,2,Sairam Park,51.0,Ready to Move,3,4,Top
+403,1,Unfurnished,1,Amber Park,33.0,Ready to Move,4,4,Top
+384,1,Unfurnished,1,Rohan Park,25.0,Ready to Move,3,4,Top
+475,1,Unfurnished,1,Sneha Vihar,27.0,Ready to Move,1,7,Low
+449,1,Semi-Furnished,1,Sneha Vihar,26.5,Ready to Move,1,7,Low
+432,1,Furnished,1,Sneha Vihar,21.0,Ready to Move,6,8,Top
+410,1,Unfurnished,1,Disney Park,30.0,Ready to Move,2,7,Mid
+1314,2,Unfurnished,2,Atharva Bliss,105.0,Ready to Move,1,8,Low
+727,2,Semi-Furnished,2,Krishna Kunj,75.0,Ready to Move,3,5,Mid
+695,2,Unfurnished,2,Krishna Kunj,40.0,Ready to Move,3,6,Mid
+936,2,Furnished,2,Niyoshi Park,100.0,Ready to Move,3,3,Top
+504,3,Semi-Furnished,2,Bhoir Estate,50.0,Ready to Move,1,4,Mid
+713,2,Unfurnished,2,Sai Complex,35.0,Ready to Move,3,4,Top
+119,1,Unfurnished,1,Sai Complex,15.0,Ready to Move,3,6,Mid
+720,2,Semi-Furnished,2,Gagan Garima,85.0,Ready to Move,10,12,Top
+720,2,Semi-Furnished,2,Sai Majestic,98.0,Ready to Move,6,7,Top
+1080,3,Unfurnished,3,Sierra Vista,115.0,Ready to Move,3,7,Mid
+378,1,Unfurnished,1,Shiv Classic,26.5,Ready to Move,6,7,Top
+378,1,Semi-Furnished,1,Shiv Classic,27.0,Ready to Move,7,7,Top
+331,1,Unfurnished,1,Shiv Classic,33.0,Ready to Move,5,8,Mid
+468,1,Unfurnished,1,Laukik Ishaan,30.0,Ready to Move,4,5,Top
+2059,3,Semi-Furnished,3,Swastik Ganga,600.0,Ready to Move,9,10,Top
+1260,3,Furnished,1,Swastik Ganga,300.0,Ready to Move,10,14,Mid
+792,2,Unfurnished,2,Omkar Heights,75.0,Ready to Move,2,4,Mid
+435,1,Unfurnished,2,Omkar Heights,18.0,Ready to Move,1,5,Low
+1764,4,Unfurnished,3,Sawant Vihar,150.0,Ready to Move,1,5,Low
+649,2,Furnished,2,Tamarind Park,56.0,Ready to Move,5,12,Mid
+410,1,Unfurnished,1,Indrayani Heights,14.0,Ready to Move,2,4,Mid
+684,2,Unfurnished,2,Prakash Florence,80.0,Ready to Move,1,7,Low
+605,2,Unfurnished,1,Nakshatra,30.0,Ready to Move,1,8,Low
+587,1,Unfurnished,1,Citron,40.0,Ready to Move,8,12,Mid
+684,2,Unfurnished,2,Venkatesh Paradise,39.0,Ready to Move,10,11,Top
+1140,3,Unfurnished,3,Sai Avenue,110.0,Ready to Move,1,4,Mid
+87,1,Unfurnished,1,VTP Urban Life,35.0,Ready to Move,4,12,Mid
+652,2,Furnished,2,Sarthak Beaulieu,42.0,Ready to Move,8,9,Top
+539,1,Unfurnished,1,Shekhar Heights,30.0,Ready to Move,1,6,Low
+377,1,Furnished,1,Maruti Enclave,40.0,Ready to Move,1,5,Low
+864,2,Semi-Furnished,2,Swapna Sankul,75.0,Ready to Move,1,6,Low
+713,2,Unfurnished,2,Swapna Sankul,59.0,Ready to Move,6,8,Top
+471,1,Semi-Furnished,1,Sovereign,38.0,Ready to Move,1,11,Low
+648,2,Semi-Furnished,2,Radhika Vihar,45.0,Ready to Move,1,12,Low
+706,2,Semi-Furnished,2,Kolosus Green City,50.0,Ready to Move,6,12,Mid
+1070,3,Semi-Furnished,1,Tain Square,105.0,Ready to Move,9,11,Top
+801,2,Unfurnished,2,Megapolis Splendour Smart Homes III,67.0,Ready to Move,5,14,Mid
+672,2,Semi-Furnished,2,ArcVista,52.0,Ready to Move,8,11,Mid
+491,1,Unfurnished,2,Shriram Paradise,30.0,Ready to Move,3,7,Mid
+972,3,Semi-Furnished,3,Candy Floors,65.0,Ready to Move,7,11,Mid
+698,2,Unfurnished,2,Shubhankar Durvaa,49.0,Ready to Move,3,12,Mid
+683,2,Unfurnished,2,Siddhi Nisarg,70.0,Ready to Move,1,9,Low
+720,3,Furnished,2,Sonigara Pearl,49.0,Ready to Move,4,5,Top
+508,1,Unfurnished,1,Sonigara Pearl,35.0,Ready to Move,5,5,Top
+428,1,Unfurnished,1,Sukhwani Palms,35.0,Ready to Move,1,8,Low
+432,1,Unfurnished,1,Sukhwani Palms,32.0,Ready to Move,8,9,Top
+454,1,Semi-Furnished,2,Sun Residency,43.0,Ready to Move,7,7,Top
+576,2,Unfurnished,2,West Winds,75.0,Ready to Move,2,7,Mid
+828,2,Furnished,2,Suyash Nisarg,65.0,Ready to Move,3,11,Mid
+979,3,Unfurnished,3,Suyash Nisarg,70.0,Ready to Move,5,10,Mid
+421,1,Unfurnished,1,Suyog Nisarg,32.0,Ready to Move,8,11,Mid
+425,1,Semi-Furnished,1,Suyog Nisarg,32.0,Ready to Move,3,7,Mid
+342,1,Unfurnished,1,Suyog Nisarg,32.0,Ready to Move,4,10,Mid
+424,1,Unfurnished,1,Suyog Nisarg,39.0,Ready to Move,11,11,Top
+428,1,Unfurnished,1,Suyog Nisarg,32.0,Ready to Move,11,11,Top
+698,2,Unfurnished,2,Pristine Meadows,52.0,Ready to Move,4,5,Top
+667,2,Semi-Furnished,2,Pristine East Winds,48.0,Ready to Move,4,4,Top
+626,2,Unfurnished,2,Pristine East Winds,53.0,Ready to Move,2,4,Mid
+677,2,Semi-Furnished,2,Green Estate,38.0,Ready to Move,9,10,Top
+468,2,Unfurnished,2,Saarrthi Swadesh,29.0,Ready to Move,2,8,Mid
+432,1,Unfurnished,1,Sanskar Heights,25.0,Ready to Move,4,11,Mid
+950,3,Unfurnished,3,Celestino,100.0,Ready to Move,2,7,Mid
+576,2,Semi-Furnished,2,Kalpataru Sudha Kalash,48.0,Ready to Move,4,5,Top
+720,2,Unfurnished,2,Ozone Westend,25.0,Ready to Move,2,3,Mid
+840,2,Unfurnished,2,Rawat Capstone,55.0,Ready to Move,6,9,Mid
+684,2,Semi-Furnished,2,NEA Pure Homes,65.0,Ready to Move,2,8,Mid
+511,2,Semi-Furnished,2,NEA Pure Homes,51.0,Ready to Move,1,6,Low
+806,2,Semi-Furnished,2,Oxford Florida Estate,81.0,Ready to Move,1,7,Low
+726,2,Semi-Furnished,2,Oxford Florida Estate,65.0,Ready to Move,2,6,Mid
+588,2,Semi-Furnished,2,Yashraj Avenue,48.0,Ready to Move,4,5,Top
+864,2,Semi-Furnished,2,Disha Horizon,150.0,Ready to Move,3,4,Top
+900,3,Semi-Furnished,3,Mayur Panorama,100.0,Ready to Move,1,7,Low
+922,3,Semi-Furnished,3,Mayur Panorama,79.0,Ready to Move,5,7,Mid
+1188,3,Semi-Furnished,3,Kundan Estates,100.0,Ready to Move,6,7,Top
+599,2,Semi-Furnished,2,Yashda Ambience,39.0,Ready to Move,1,4,Mid
+950,2,Semi-Furnished,2,Ashoka Summit,75.0,Ready to Move,1,5,Low
+900,2,Unfurnished,2,Ashoka Summit,45.0,Ready to Move,3,4,Top
+612,2,Semi-Furnished,2,Akshay Chandan,55.0,Ready to Move,4,8,Mid
+619,2,Furnished,2,Bhagwati Nagar,65.0,Ready to Move,6,6,Top
+294,2,Unfurnished,2,Dreams Nivara,17.0,Ready to Move,2,3,Mid
+612,2,Unfurnished,2,Dreams Wisteria,55.0,Ready to Move,8,10,Top
+459,2,Unfurnished,1,Balaji Nisarg,20.0,Ready to Move,4,17,Low
+459,2,Semi-Furnished,1,Balaji Nisarg,22.6,Ready to Move,1,6,Low
+360,1,Semi-Furnished,1,Balaji Nisarg,14.0,Ready to Move,4,5,Top
+334,1,Unfurnished,1,Balaji Nisarg,15.0,Ready to Move,3,4,Top
+778,2,Semi-Furnished,2,The Almonds,75.0,Ready to Move,3,7,Mid
+562,2,Furnished,2,Jaihind Residency,60.0,Ready to Move,2,8,Mid
+641,2,Semi-Furnished,2,Jaihind Residency,60.0,Ready to Move,5,8,Mid
+601,2,Unfurnished,2,Merlin Navyangan,32.0,Ready to Move,3,7,Low
+403,1,Unfurnished,1,Aura City,16.0,Ready to Move,4,5,Top
+387,1,Unfurnished,1,Aura City,19.0,Ready to Move,3,4,Top
+864,2,Semi-Furnished,2,Regency Orion,100.0,Ready to Move,10,11,Top
+446,1,Unfurnished,1,Pride Aashiyana Phase 2,39.5,Ready to Move,3,9,Mid
+409,1,Unfurnished,1,AV Vitthal Empire,29.0,Ready to Move,2,6,Mid
+958,2,Furnished,2,Montvert Avion,125.0,Ready to Move,3,19,Low
+612,2,Unfurnished,2,Shree Siddhivinayak Park,32.0,Ready to Move,4,7,Mid
+469,1,Unfurnished,1,Anshul Kosmos,27.5,Ready to Move,1,12,Low
+533,1,Unfurnished,1,Anshul Kosmos,32.5,Ready to Move,4,12,Mid
+506,1,Semi-Furnished,1,RK Life Space,47.0,Ready to Move,2,10,Low
+698,2,Semi-Furnished,2,SunShree Society,60.0,Ready to Move,4,7,Mid
+494,1,Semi-Furnished,1,Utsav Homes Bhosari,43.0,Ready to Move,1,14,Low
+864,2,Unfurnished,2,Utsav Homes Bhosari,90.0,Ready to Move,6,13,Mid
+360,1,Unfurnished,1,Aapla Ghar Shikrapur Township,16.5,Ready to Move,3,5,Mid
+486,1,Unfurnished,1,Pharande Woodsville,37.0,Ready to Move,9,12,Top
+533,2,Semi-Furnished,2,Oxy Evolve,44.0,Ready to Move,11,12,Top
+698,2,Unfurnished,2,Oxy Evolve,50.0,Ready to Move,6,10,Mid
+490,1,Semi-Furnished,1,Saad,32.0,Ready to Move,1,6,Low
+252,1,Furnished,1,Playtor Rajgurunagar,12.5,Ready to Move,2,7,Mid
+576,2,Unfurnished,2,Dream Homes,50.0,Ready to Move,4,6,Mid
+720,2,Semi-Furnished,2,Dream Homes,36.0,Ready to Move,5,8,Mid
+474,1,Unfurnished,1,Kamalraj Pasaydan,42.0,Ready to Move,8,11,Mid
+473,1,Unfurnished,1,Krishna Icon,25.5,Ready to Move,6,8,Top
+423,1,Unfurnished,1,Krishna Icon,20.0,Ready to Move,4,8,Mid
+563,1,Unfurnished,2,Krishna Icon,25.0,Ready to Move,5,8,Mid
+469,1,Semi-Furnished,1,Krishna Icon,18.0,Ready to Move,8,8,Top
+472,1,Furnished,2,Goodwill Valencia,45.0,Ready to Move,5,11,Mid
+1008,3,Semi-Furnished,2,Parijat,120.0,Ready to Move,2,7,Mid
+936,3,Furnished,3,Shreeram Lotus,115.0,Ready to Move,4,4,Top
+446,1,Unfurnished,1,Shreeram Lotus,34.5,Ready to Move,4,5,Top
+770,2,Semi-Furnished,2,Sonigara Laurel,80.0,Ready to Move,10,10,Top
+406,1,Unfurnished,1,Pratham Yash Residency,36.0,Ready to Move,8,9,Top
+631,2,Unfurnished,2,Honeydew,33.0,Ready to Move,6,12,Mid
+773,2,Semi-Furnished,2,I Build Florista County,55.0,Ready to Move,1,13,Low
+756,2,Unfurnished,1,I Build Florista County,53.0,Ready to Move,4,14,Mid
+756,2,Unfurnished,2,I Build Florista County,51.0,Ready to Move,4,13,Mid
+684,2,Semi-Furnished,2,I Build Florista County,48.0,Ready to Move,7,13,Mid
+648,1,Unfurnished,1,Konark Orchids,40.0,Ready to Move,5,7,Mid
+673,2,Unfurnished,2,Ganesh Nisarg,65.0,Ready to Move,2,13,Low
+864,2,Furnished,2,Satyam Prima,80.0,Ready to Move,5,12,Mid
+483,1,Semi-Furnished,2,Alliance Nisarg Phase 2,47.0,Ready to Move,3,5,Mid
+338,1,Unfurnished,1,Aldea Anexo,53.0,Ready to Move,3,11,Mid
+407,1,Unfurnished,1,Vrindavan,20.0,Ready to Move,3,7,Mid
+755,2,Semi-Furnished,2,Mangal Dhara,76.0,Ready to Move,10,10,Top
+803,2,Unfurnished,2,Ela The Earth,98.0,Ready to Move,8,12,Mid
+486,1,Unfurnished,1,Eastern Royale,30.0,Ready to Move,3,9,Mid
+747,2,Unfurnished,2,Tulip Purple,65.0,Ready to Move,9,10,Top
+756,2,Furnished,2,Tulip Purple,63.0,Ready to Move,9,11,Top
+720,2,Semi-Furnished,2,Tulip Purple,61.0,Ready to Move,8,10,Top
+396,1,Unfurnished,2,Galaxy Aangan,21.5,Ready to Move,4,7,Mid
+644,2,Unfurnished,2,Shiv Sparsh City,65.0,Ready to Move,2,5,Mid
+631,2,Unfurnished,2,Kesar Gandh,42.0,Ready to Move,3,6,Mid
+360,1,Unfurnished,1,Sai Residency,20.0,Ready to Move,3,6,Mid
+655,2,Semi-Furnished,2,Kate Estate,38.0,Ready to Move,10,11,Top
+835,3,Semi-Furnished,2,ARV Imperia,55.0,Ready to Move,4,15,Mid
+480,1,Unfurnished,1,Maple Aapla Ghar,30.0,Ready to Move,3,4,Top
+475,1,Unfurnished,1,Vishal Viviana,51.0,Ready to Move,9,11,Top
+356,1,Unfurnished,1,Ashapuri The Sacred Basil,25.0,Ready to Move,3,5,Mid
+456,1,Semi-Furnished,1,Ashapuri The Sacred Basil,27.0,Ready to Move,2,4,Mid
+410,1,Unfurnished,1,Sai Samarth,24.0,Ready to Move,1,4,Mid
+505,2,Unfurnished,2,Vighnaharta Heights,40.0,Ready to Move,2,6,Mid
+457,1,Unfurnished,1,Arunaren Residency,52.0,Ready to Move,5,7,Mid
+396,1,Semi-Furnished,2,Sai Pearl,66.0,Ready to Move,1,12,Low
+337,1,Semi-Furnished,1,Mayuri Optimum,30.0,Ready to Move,6,10,Mid
+207,1,Unfurnished,1,Xrbia Chakan,17.0,Ready to Move,5,12,Mid
+288,1,Unfurnished,1,Xrbia Chakan,18.5,Ready to Move,1,12,Low
+432,1,Unfurnished,1,A and A Nisarg Residency,29.5,Ready to Move,3,4,Top
+487,1,Unfurnished,1,A and A Nisarg Residency,35.0,Ready to Move,2,4,Mid
+576,2,Unfurnished,2,Eco Valley Plus,28.0,Ready to Move,2,6,Mid
+547,2,Semi-Furnished,2,Eco Valley Plus,32.0,Ready to Move,3,4,Top
+403,1,Unfurnished,1,Eco Valley Plus,18.0,Ready to Move,3,7,Mid
+729,2,Unfurnished,2,Micasaa Green Lifestyle,53.0,Ready to Move,8,12,Mid
+673,2,Unfurnished,2,Castle Royale,65.0,Ready to Move,1,4,Mid
+684,2,Unfurnished,2,Kedareshwar Residency,35.0,Ready to Move,1,5,Low
+510,1,Unfurnished,1,Pristine Palms,18.5,Ready to Move,3,7,Mid
+469,1,Unfurnished,1,Pristine Palms,23.5,Ready to Move,2,7,Mid
+510,1,Unfurnished,1,Pristine Palms,22.0,Ready to Move,7,7,Top
+490,1,Unfurnished,1,Pristine Palms,24.0,Ready to Move,2,7,Mid
+482,1,Semi-Furnished,1,Rutu Sparsha,40.0,Ready to Move,1,8,Low
+659,2,Semi-Furnished,2,Sukhwani Panorama,70.0,Ready to Move,7,12,Mid
+652,2,Unfurnished,2,Sukhwani Panorama,75.0,Ready to Move,7,13,Mid
+440,1,Furnished,1,Spine City,30.0,Ready to Move,6,8,Top
+495,1,Unfurnished,1,SP Enterprises Mayur Heights,30.0,Ready to Move,4,6,Mid
+395,1,Unfurnished,1,Samruddhi Palace,18.0,Ready to Move,2,7,Mid
+832,2,Furnished,2,Paramount Garden,80.0,Ready to Move,6,7,Top
+360,1,Unfurnished,1,Kanchan Plaza,40.0,Ready to Move,1,5,Low
+504,1,Unfurnished,1,Kalpak Homes Katraj,40.0,Ready to Move,4,6,Mid
+630,2,Semi-Furnished,2,Kalpak Homes Katraj,65.0,Ready to Move,1,6,Low
+468,1,Semi-Furnished,1,Chandrakala Heights,30.0,Ready to Move,3,4,Top
+378,1,Unfurnished,1,Vision City,18.0,Ready to Move,1,4,Mid
+1094,4,Semi-Furnished,1,Vision City,50.0,Ready to Move,1,7,Low
+1062,3,Furnished,3,Pride Purple Square,125.0,Ready to Move,7,7,Top
+648,2,Unfurnished,2,Green Heights,48.0,Ready to Move,8,11,Mid
+613,2,Semi-Furnished,2,Chintamani Vandan,38.0,Ready to Move,2,5,Mid
+562,2,Semi-Furnished,2,Solace Park,60.0,Ready to Move,3,7,Mid
+1163,3,Furnished,3,EVA BAWDHAN,170.0,Ready to Move,11,11,Top
+708,2,Semi-Furnished,2,Sahyadri Shruberry,53.0,Ready to Move,1,10,Low
+554,1,Unfurnished,1,Prithvi Sai Velocity,47.0,Ready to Move,7,14,Mid
+560,2,Unfurnished,2,Kapil Dreams,34.5,Ready to Move,2,4,Mid
+626,2,Unfurnished,2,Kalpvruksha,68.0,Ready to Move,11,12,Top
+459,1,Unfurnished,1,Mayuri Anand,34.0,Ready to Move,4,6,Mid
+720,2,Unfurnished,2,Acme ACME Selene,38.0,Ready to Move,10,11,Top
+684,2,Unfurnished,2,Wel Home Galaxy,45.0,Ready to Move,3,4,Top
+540,2,Unfurnished,2,Aishwarya Greens,42.0,Ready to Move,8,9,Top
+432,1,Semi-Furnished,1,Kishor Shubhankar Heights,42.0,Ready to Move,5,7,Mid
+396,1,Unfurnished,1,Hari Om Apartment,35.0,Ready to Move,1,7,Low
+527,1,Furnished,1,Shivtirth Apartment,45.0,Ready to Move,2,5,Mid
+439,2,Unfurnished,2,Natraj Apartment,39.0,Ready to Move,1,5,Low
+439,1,Semi-Furnished,1,Goyal Darshan Nagari,42.0,Ready to Move,1,3,Mid
+432,1,Unfurnished,1,Goel Ganga Aashiyana Phase I,46.0,Ready to Move,7,11,Mid
+540,2,Semi-Furnished,2,Tulshi Prem,52.0,Ready to Move,1,4,Mid
+696,2,Unfurnished,2,Probo Pride Township,70.0,Ready to Move,4,16,Mid
+696,2,Unfurnished,2,Shubh Spring Valley,47.0,Ready to Move,5,12,Mid
+400,1,Semi-Furnished,1,Eiffel City Phase II,28.5,Ready to Move,9,12,Top
+369,1,Unfurnished,1,Gagangiri Sankul,37.0,Ready to Move,3,4,Top
+437,1,Unfurnished,1,Bhoomi Residency,38.0,Ready to Move,2,5,Mid
+414,1,Semi-Furnished,1,Green Palms,29.0,Ready to Move,1,8,Low
+432,1,Furnished,1,Gulmohar Paradise,55.0,Ready to Move,6,6,Top
+613,2,Furnished,2,Vilas Javdekar Yashwin Hinjewadi,85.0,Ready to Move,1,7,Low
+713,2,Unfurnished,2,Devyani Heights,63.0,Ready to Move,3,7,Mid
+436,1,Unfurnished,1,Kiran Solitaire,36.0,Ready to Move,2,4,Mid
+382,1,Unfurnished,1,Sai Simran Park,38.0,Ready to Move,3,4,Top
+385,1,Semi-Furnished,1,Konark Gardens,58.0,Ready to Move,1,4,Mid
+603,2,Unfurnished,2,Ramana Srushti,55.0,Ready to Move,2,4,Mid
+420,1,Unfurnished,1,Ramana Srushti,30.0,Ready to Move,4,5,Top
+458,1,Semi-Furnished,1,Aundh Riviera,55.0,Ready to Move,5,6,Top
+518,1,Semi-Furnished,2,Aundh Riviera,49.0,Ready to Move,5,7,Mid
+450,1,Unfurnished,1,prachi Apartments,38.0,Ready to Move,4,5,Top
+288,1,Unfurnished,1,Ceratec Green,50.0,Ready to Move,3,12,Mid
+598,2,Unfurnished,2,Ceratec Green,44.0,Ready to Move,7,11,Mid
+504,1,Unfurnished,1,Manoja Residency,32.0,Ready to Move,1,5,Low
+447,1,Unfurnished,1,Puraniks Aldea,46.0,Ready to Move,2,14,Low
+466,1,Unfurnished,1,Lotus Nandanvan Phase 1,32.0,Ready to Move,4,6,Mid
+414,1,Unfurnished,1,Lotus Nandanvan Phase 1,26.9,Ready to Move,4,7,Mid
+385,1,Unfurnished,1,Ganga Vatika,25.0,Ready to Move,6,7,Top
+389,1,Unfurnished,1,Ganga Vatika,18.0,Ready to Move,7,7,Top
+464,1,Unfurnished,1,Lotus Nandanvan Phase 1,34.0,Ready to Move,2,7,Mid
+439,1,Unfurnished,1,Fortune Empress,32.0,Ready to Move,12,13,Top
+477,1,Semi-Furnished,1,Fortune Empress,28.5,Ready to Move,5,13,Mid
+774,2,Unfurnished,2,Shivam Greencourt,40.0,Ready to Move,11,13,Top
+734,2,Semi-Furnished,2,Bhargav Palace,60.0,Ready to Move,1,7,Low
+452,1,Unfurnished,1,Bhargav Palace,36.0,Ready to Move,1,7,Low
+441,1,Unfurnished,1,Kohinoor Begonia Phase III,19.8,Ready to Move,4,4,Top
+677,2,Unfurnished,2,Nirmiti 25east,72.0,Ready to Move,5,12,Mid
+410,1,Unfurnished,1,Nirmiti 25east,46.0,Ready to Move,9,15,Mid
+477,1,Semi-Furnished,1,Swaraj Nagri,24.5,Ready to Move,2,3,Mid
+936,3,Unfurnished,2,Swaraj Nagri,50.0,Ready to Move,1,4,Mid
+457,1,Unfurnished,1,Kohinoor Iris Park,32.0,Ready to Move,4,6,Mid
+655,2,Unfurnished,2,Kohinoor Iris Park,45.0,Ready to Move,5,8,Mid
+490,1,Semi-Furnished,1,Gagan Renaissance,34.0,Ready to Move,5,11,Mid
+594,2,Unfurnished,2,Bluebells Aura,86.0,Ready to Move,8,11,Mid
+720,2,Semi-Furnished,2,Vishal Memories,80.0,Ready to Move,6,6,Top
+584,2,Unfurnished,2,Nyati Evara II,61.5,Ready to Move,2,12,Low
+900,3,Furnished,3,Sanskruti Homes,60.0,Ready to Move,4,4,Top
+564,1,Unfurnished,1,Sadguru Galaxy,30.0,Ready to Move,1,7,Low
+396,1,Furnished,1,Ajmera Housing Complex,32.0,Ready to Move,1,3,Mid
+468,2,Semi-Furnished,2,High Mount Phase 2,60.0,Ready to Move,3,7,Mid
+605,2,Semi-Furnished,2,High Mount Phase 2,63.0,Ready to Move,1,7,Low
+475,2,Unfurnished,2,High Mount Phase 2,55.0,Ready to Move,3,7,Mid
+619,2,Semi-Furnished,2,High Mount Phase 2,67.0,Ready to Move,1,7,Low
+670,2,Furnished,2,Kasba Peth Aloknagri Society Carpet Area 670 sqft Status Ready to Move Floor 5 out of 5 Transaction Resale Furnishing Furnished Society Aloknagri Society,75.0,Ready to Move,5,5,Top
+864,2,Semi-Furnished,2,Rachana Belvedere,140.0,Ready to Move,3,8,Mid
+403,2,Unfurnished,2,Mount Brisa,43.0,Ready to Move,4,13,Mid
+864,2,Furnished,2,Ganga Chambers,70.0,Ready to Move,2,5,Mid
+720,2,Semi-Furnished,1,Kabir Krupa Apartment,65.0,Ready to Move,2,6,Mid
+576,2,Unfurnished,2,Kesar Tree Town,45.0,Ready to Move,11,12,Top
+374,1,Unfurnished,1,Tara Aangan,25.0,Ready to Move,3,6,Mid
+432,1,Unfurnished,2,Shubharambh Residency,32.0,Ready to Move,2,4,Mid
+612,2,Semi-Furnished,2,Springdale,62.0,Ready to Move,3,5,Mid
+418,1,Semi-Furnished,1,Shree Swami Samarth Sai Hills,21.0,Ready to Move,4,8,Mid
+432,1,Furnished,1,Venkatesh Bilva,36.0,Ready to Move,8,8,Top
+774,2,Semi-Furnished,2,Shree Venkatesh Kshitij,80.0,Ready to Move,4,7,Mid
+612,2,Unfurnished,2,Shree Venkatesh Shrushti,45.0,Ready to Move,7,11,Mid
+376,1,Unfurnished,1,Vardhman Dhruv,41.0,Ready to Move,7,8,Top
+439,1,Unfurnished,1,Shyama Wisteria,25.0,Ready to Move,4,12,Mid
+461,1,Semi-Furnished,1,SMP Sai Samarth,31.0,Ready to Move,5,11,Mid
+396,1,Furnished,1,Sai Sadan,47.0,Ready to Move,6,7,Top
+360,1,Unfurnished,1,Sai Angan,23.0,Ready to Move,3,5,Mid
+425,1,Furnished,1,Sai Angan,25.0,Ready to Move,3,6,Mid
+360,1,Unfurnished,1,Sai Angan,50.0,Ready to Move,5,6,Top
+414,1,Unfurnished,1,Mantri Market,33.0,Ready to Move,7,7,Top
+396,1,Semi-Furnished,1,Mantri Market,45.0,Ready to Move,7,8,Top
+396,1,Semi-Furnished,1,Poonam Garden,50.0,Ready to Move,2,6,Mid
+620,2,Semi-Furnished,2,Suvidha Angan,55.0,Ready to Move,3,4,Top
+432,1,Unfurnished,1,Vardhmanpura,54.0,Ready to Move,11,11,Top
+680,2,Semi-Furnished,2,Suyog Pearl,60.0,Ready to Move,9,11,Top
+691,2,Semi-Furnished,2,Suyog Pearl,57.8,Ready to Move,11,11,Top
+792,2,Furnished,2,Suyog Enclave,112.0,Ready to Move,1,6,Low
+615,2,Unfurnished,2,Taneshqu Icon,56.0,Ready to Move,2,5,Mid
+756,2,Semi-Furnished,2,TATA La Montana Phase 2,75.0,Ready to Move,11,12,Top
+612,2,Furnished,2,Shivaji Arcade,35.0,Ready to Move,3,4,Top
+252,1,Semi-Furnished,1,Nandan Acura,36.0,Ready to Move,3,6,Mid
+771,2,Unfurnished,2,Mont Vert Belair,80.0,Ready to Move,9,12,Top
+706,2,Semi-Furnished,2,Arihant Society,81.0,Ready to Move,7,8,Top
+1008,3,Furnished,3,Carpet Area 1008 sqft Status Ready to Move Floor 3 out of 6 Transaction Resale Furnishing Furnished Society Bhawani Housinng Society,101.0,Ready to Move,3,6,Mid
+360,1,Unfurnished,1,Carpet Area 360 sqft Status Ready to Move Floor 2 out of 8 Transaction Resale Furnishing Unfurnished Society Bhawani Housinng Society,32.0,Ready to Move,2,8,Mid
+432,1,Unfurnished,1,Carpet Area 432 sqft Status Ready to Move Floor 3 out of 4 Transaction Resale Furnishing Unfurnished Society Bhawani Housinng Society,25.0,Ready to Move,3,4,Top
+432,1,Unfurnished,1,Swapnapurti,28.0,Ready to Move,5,5,Top
+447,1,Unfurnished,1,Swapnapurti,30.0,Ready to Move,9,10,Top
+648,1,Unfurnished,1,Golden Trellis,64.0,Ready to Move,8,10,Top
+817,2,Furnished,2,Navjeevan BlueBells,120.0,Ready to Move,3,8,Mid
+468,1,Unfurnished,1,Trademark Life,21.0,Ready to Move,5,11,Mid
+549,2,Furnished,1,Trademark Life,30.0,Ready to Move,7,11,Mid
+641,2,Unfurnished,2,Trademark Life,36.0,Ready to Move,7,11,Mid
+559,2,Unfurnished,2,Soham Apartment,32.0,Ready to Move,3,6,Mid
+541,2,Unfurnished,1,Nilesh Park,44.0,Ready to Move,2,4,Mid
+547,2,Unfurnished,1,Nilesh Park,50.0,Ready to Move,1,4,Mid
+756,2,Unfurnished,2,Nilesh Plaza,61.5,Ready to Move,2,3,Mid
+765,2,Unfurnished,2,Nilesh Samrudhi,50.0,Ready to Move,5,10,Mid
+367,1,Unfurnished,1,Shivanand Complex,38.0,Ready to Move,4,5,Top
+864,2,Unfurnished,2,Nirman Eternity,79.0,Ready to Move,5,7,Mid
+713,2,Semi-Furnished,2,Omega Heritage,63.0,Ready to Move,1,17,Low
+598,2,Semi-Furnished,2,Omega Residency,90.0,Ready to Move,5,7,Mid
+1127,3,Furnished,3,Fortune Estates,40.0,Ready to Move,1,7,Low
+857,3,Semi-Furnished,3,Parmar Residency,75.0,Ready to Move,2,4,Mid
+684,2,Semi-Furnished,2,Ganga Garden,80.0,Ready to Move,3,8,Mid
+972,3,Semi-Furnished,2,Goel Shiv Ganga,80.0,Ready to Move,3,4,Top
+657,2,Semi-Furnished,2,Supreme Apartment,42.0,Ready to Move,3,4,Top
+655,2,Furnished,2,Supreme Apartment,47.0,Ready to Move,1,4,Mid
+396,1,Unfurnished,1,Sai Sparsh,26.0,Ready to Move,3,4,Top
+553,2,Semi-Furnished,2,Suman Shilp,41.0,Ready to Move,6,7,Top
+1116,3,Unfurnished,3,Konark Exotica,90.0,Ready to Move,2,7,Mid
+457,1,Furnished,1,Gurukunj,40.0,Ready to Move,6,7,Top
+764,2,Semi-Furnished,2,Pharande Woodsville Phase III,68.0,Ready to Move,2,12,Low
+758,2,Semi-Furnished,2,Pooja Green Thumb,85.0,Ready to Move,2,6,Mid
+659,2,Unfurnished,2,Prasun Dham,67.0,Ready to Move,3,6,Mid
+1080,3,Furnished,2,Pride Green Fields,135.0,Ready to Move,2,9,Low
+684,2,Semi-Furnished,2,Puranik Aldea Espanola,85.0,Ready to Move,8,15,Mid
+708,2,Unfurnished,2,Puranik Aldea Espanola,80.0,Ready to Move,12,15,Top
+760,2,Unfurnished,2,Swapna Ganga,42.0,Ready to Move,5,8,Mid
+396,1,Unfurnished,2,Rainbow Apartment,48.8,Ready to Move,3,5,Mid
+528,2,Semi-Furnished,2,Swapna Sagar,40.2,Ready to Move,3,4,Top
+410,1,Furnished,1,Project Atul Nagar,50.0,Ready to Move,9,9,Top
+619,2,Semi-Furnished,2,Pratik Nagar,37.0,Ready to Move,2,3,Mid
+542,2,Semi-Furnished,2,Siddharth Nagar,67.5,Ready to Move,1,4,Mid
+828,2,Furnished,2,New Ajantha Avenue,200.0,Ready to Move,8,10,Top
+623,2,Unfurnished,2,Green Divine,55.0,Ready to Move,4,5,Top
+594,2,Semi-Furnished,2,Sarita Sangam,65.0,Ready to Move,3,9,Mid
+832,3,Semi-Furnished,3,Regency Meadows,77.0,Ready to Move,1,9,Low
+752,2,Unfurnished,2,Rohan Madhuban,120.0,Ready to Move,4,16,Mid
+1080,3,Unfurnished,3,Rohan Silver Gardenia,110.0,Ready to Move,3,13,Low
+756,2,Semi-Furnished,1,Runal Dew Drops,62.0,Ready to Move,2,4,Mid
+1728,4,Furnished,1,Runwal Spring Park,350.0,Ready to Move,2,5,Mid
+713,2,Semi-Furnished,2,Agrawal Gardens,75.0,Ready to Move,6,7,Top
+554,2,Unfurnished,2,Saarrthi Sinclair,50.0,Ready to Move,3,5,Mid
+396,1,Semi-Furnished,1,Sai palace,25.0,Ready to Move,2,3,Mid
+612,2,Furnished,2,Sai Prasad Apartments,50.0,Ready to Move,1,5,Low
+428,1,Unfurnished,1,Samrat Towers,21.0,Ready to Move,3,5,Mid
+864,2,Semi-Furnished,2,Mahavir Residency,140.0,Ready to Move,6,9,Mid
+436,1,Unfurnished,2,Prachi Residency,50.0,Ready to Move,6,9,Mid
+378,1,Unfurnished,1,Sancheti Pratik Nagar,26.0,Ready to Move,3,4,Top
+461,1,Semi-Furnished,1,Kumar Premier,65.0,Ready to Move,6,6,Top
+751,2,Furnished,2,Kumar Princeville,88.0,Ready to Move,12,12,Top
+648,2,Semi-Furnished,2,Kumar Princeville,72.0,Ready to Move,2,13,Low
+600,2,Semi-Furnished,2,Kumar Princeville,70.0,Ready to Move,4,13,Mid
+1069,3,Semi-Furnished,3,Kumar Princeville,125.0,Ready to Move,11,13,Top
+436,2,Unfurnished,2,Megapolis Smart Homes I,56.0,Ready to Move,7,20,Mid
+611,2,Furnished,2,Kubera Vihar,60.0,Ready to Move,5,7,Mid
+1044,3,Unfurnished,3,Regulus,130.0,Ready to Move,2,6,Mid
+612,2,Semi-Furnished,2,Kunal House,58.0,Ready to Move,3,4,Top
+361,1,Unfurnished,1,Kunal Residency,30.3,Ready to Move,4,4,Top
+454,2,Semi-Furnished,1,Kundan Heritage,80.0,Ready to Move,1,9,Low
+540,1,Unfurnished,1,Nanekarwadi 1,35.0,Ready to Move,3,6,Mid
+454,1,Unfurnished,1,Laxmi Park,50.0,Ready to Move,1,5,Low
+450,1,Unfurnished,1,Laxmi Park,35.0,Ready to Move,3,4,Top
+756,2,Semi-Furnished,2,Laxmi Vridavan,80.0,Ready to Move,2,8,Mid
+684,2,Semi-Furnished,2,Lotus Grace,58.0,Ready to Move,4,5,Top
+504,1,Unfurnished,1,Lotus Grace,42.0,Ready to Move,2,5,Mid
+634,2,Semi-Furnished,2,Lotus Vrindavan,45.0,Ready to Move,2,7,Mid
+749,2,Unfurnished,2,MP Residency,60.0,Ready to Move,5,6,Top
+576,2,Unfurnished,2,MP Residency,45.0,Ready to Move,1,7,Low
+720,2,Unfurnished,2,Shri Ram Apartment,25.0,Ready to Move,2,4,Mid
+477,1,Unfurnished,1,Mark Cosmos,24.0,Ready to Move,1,3,Mid
+860,2,Unfurnished,2,Sky Heights,54.0,Ready to Move,9,12,Top
+490,2,Semi-Furnished,2,Sky Heights,52.0,Ready to Move,1,12,Low
+547,1,Semi-Furnished,1,Uday Glorious Park,45.0,Ready to Move,2,8,Mid
+580,1,Unfurnished,1,Uday Glorious Park,45.0,Ready to Move,5,8,Mid
+641,2,Semi-Furnished,2,Vastushodh Urbangram,42.0,Ready to Move,4,12,Mid
+600,2,Unfurnished,2,Vishal Nagari,52.0,Ready to Move,4,7,Mid
+612,2,Furnished,2,Vishal Arc Glory,52.0,Ready to Move,6,8,Top
+475,1,Semi-Furnished,1,Diamond Vishal Paradise,43.0,Ready to Move,5,7,Mid
+463,2,Unfurnished,2,Wisteriaa,75.0,Ready to Move,6,16,Mid
+860,2,Semi-Furnished,2,Benchmark Sirocco Grande,95.0,Ready to Move,3,14,Top
+852,2,Unfurnished,2,Sai Mystique,65.0,Ready to Move,9,9,Top
+1029,2,Unfurnished,2,Vastushree Adrina,49.0,Ready to Move,11,11,Top
+757,2,Semi-Furnished,2,Royal Glory,76.0,Ready to Move,1,10,Low
+341,1,Semi-Furnished,1,Silver Winds,22.0,Ready to Move,3,4,Top
+360,1,Furnished,1,Queenstown,68.0,Ready to Move,6,12,Mid
+785,2,Unfurnished,1,Ganga Terrace Mundhawa,64.0,Ready to Move,2,3,Mid
+468,1,Unfurnished,1,Alpine Aura,30.0,Ready to Move,8,8,Top
+810,3,Unfurnished,3,Ashwini Palace,85.0,Ready to Move,6,8,Top
+504,1,Furnished,1,Ashwini Palace,45.0,Ready to Move,3,9,Mid
+1250,3,Unfurnished,3,Balewadi High Street,180.0,Ready to Move,3,7,Top
+754,2,Unfurnished,2,Setpal Palazzo,75.0,Ready to Move,1,11,Low
+1444,3,Unfurnished,3,Kumar Hill View Residency,233.0,Ready to Move,3,15,Low
+325,1,Unfurnished,1,Aishwaryam Melody,32.0,Ready to Move,2,5,Mid
+425,1,Unfurnished,2,Ganesh Prabha Apartment,21.0,Ready to Move,3,4,Top
+688,2,Furnished,1,Prem Sagar Chinchwad,65.0,Ready to Move,2,7,Mid
+688,2,Furnished,2,Prem Sagar Chinchwad,90.0,Ready to Move,5,6,Top
+612,2,Unfurnished,2,Sollanna hsg society Thergaon Chinchwad,60.0,Ready to Move,7,12,Mid
+504,2,Furnished,2,Sollanna hsg society Thergaon Chinchwad,62.0,Ready to Move,7,8,Top
+396,3,Unfurnished,1,Star Bliss,24.0,Ready to Move,3,5,Mid
+397,1,Unfurnished,1,Kondhwa Suswani Complex Society Carpet Area 397 sqft Status Ready to Move Floor 2 out of 5 Transaction Resale Furnishing Unfurnished Society Suswani Complex Society,27.0,Ready to Move,2,5,Mid
+397,1,Semi-Furnished,1,Ganraj Swapnapurti phase 2,38.0,Ready to Move,4,7,Mid
+288,1,Unfurnished,1,Swamini apartment,25.0,Ready to Move,1,5,Low
+439,1,Semi-Furnished,1,Swami Sparsh,32.0,Ready to Move,3,7,Mid
+407,1,Semi-Furnished,1,Swami Sparsh,25.0,Ready to Move,2,5,Mid
+475,1,Semi-Furnished,1,Swami Sparsh,22.0,Ready to Move,5,5,Top
+360,1,Semi-Furnished,1,swami samarth cooperating housing society,37.0,Ready to Move,4,5,Top
+432,1,Unfurnished,1,shri Samarth Apartment Kasarwadi,30.0,Ready to Move,3,4,Top
+513,1,Unfurnished,1,shri Nirmaladevi heights,35.0,Ready to Move,4,6,Mid
+576,2,Semi-Furnished,2,Shri Krishna Vihar,57.0,Ready to Move,3,3,Top
+526,2,Unfurnished,1,Camp Supriya Society Carpet Area 526 sqft Status Ready to Move Floor 2 out of 7 Transaction Resale Furnishing Unfurnished Society Supriya Society,55.0,Ready to Move,2,7,Mid
+441,1,Unfurnished,1,Bhekrai Nagar Sunrise Society Carpet Area 441 sqft Status Ready to Move Floor 4 out of 6 Transaction Resale Furnishing Unfurnished Society Sunrise Society,28.0,Ready to Move,4,6,Mid
+540,1,Semi-Furnished,1,Sunrise Society,32.0,Ready to Move,1,7,Low
+402,1,Unfurnished,1,Hadapsar Sunrise Cooperative Housing Society Carpet Area 402 sqft Status Ready to Move Floor 3 out of 3 Transaction Resale Furnishing Unfurnished Society Sunrise Cooperative Housing Society,29.0,Ready to Move,3,3,Top
+630,1,Semi-Furnished,1,Surabhi residency,57.0,Ready to Move,1,3,Mid
+418,1,Furnished,1,Shree Morya Gosavi Raj Park,35.0,Ready to Move,4,4,Top
+828,2,Semi-Furnished,2,Shree Morya Gosavi Raj Park,65.0,Ready to Move,4,6,Mid
+670,2,Furnished,2,Shree Morya Gosavi Raj Park,65.0,Ready to Move,3,6,Mid
+533,2,Unfurnished,2,SK Shree Ganesh Park,29.0,Ready to Move,3,7,Mid
+389,1,Unfurnished,1,SK Shree Ganesh Park,20.0,Ready to Move,3,4,Top
+468,1,Unfurnished,1,Shredha Advik,32.0,Ready to Move,3,3,Top
+648,2,Unfurnished,2,Shraddha Heritage Morwadi,63.0,Ready to Move,1,3,Mid
+331,1,Semi-Furnished,1,Vighanaharta Complex,17.0,Ready to Move,4,6,Mid
+526,1,Unfurnished,1,Sai Dwarka,35.0,Ready to Move,8,10,Top
+471,1,Unfurnished,1,Saarrthi Sovereign,45.0,Ready to Move,9,12,Top
+568,1,Furnished,1,RS Royal Castle,55.0,Ready to Move,1,9,Low
+576,2,Unfurnished,2,Ravi Park,65.0,Ready to Move,3,4,Top
+612,2,Unfurnished,1,Radha Nagari Chs,50.0,Ready to Move,3,3,Top
+730,2,Unfurnished,2,Neeti Heritage,50.0,Ready to Move,2,4,Mid
+626,2,Furnished,2,The Mpire Township,52.0,Ready to Move,12,14,Top
+665,2,Unfurnished,2,Meridian zuha,59.0,Ready to Move,2,6,Mid
+648,2,Furnished,2,Madhuram Building,45.0,Ready to Move,2,4,Mid
+720,2,Semi-Furnished,2,Madhuram Building,45.0,Ready to Move,2,4,Mid
+720,2,Furnished,2,Lloyds Chamber,100.0,Ready to Move,2,6,Mid
+400,1,Furnished,1,Laxmi green county,32.5,Ready to Move,1,7,Low
+972,3,Unfurnished,3,Kumar Castle,121.0,Ready to Move,1,3,Mid
+562,2,Semi-Furnished,1,Kudale Patil Heritage,50.0,Ready to Move,2,6,Mid
+432,1,Semi-Furnished,1,Indraprastha society,44.0,Ready to Move,1,4,Mid
+612,2,Furnished,2,Indra Park,58.0,Ready to Move,1,7,Low
+839,2,Unfurnished,2,Kondhwa Hill Crest Society Carpet Area 839 sqft Status Ready to Move Floor 3 out of 5 Transaction Resale Furnishing Unfurnished Society Hill Crest Society,50.0,Ready to Move,3,5,Mid
+468,1,Unfurnished,1,Rahatani Pimpri Chinchwad Govind Dham Society Rahatani Carpet Area 468 sqft Status Ready to Move Floor 4 out of 4 Transaction Resale Furnishing Unfurnished Society Govind Dham Society Rahatani,50.0,Ready to Move,4,4,Top
+387,1,Unfurnished,1,Eco City,22.0,Ready to Move,5,7,Mid
+432,2,Semi-Furnished,2,Capital City,35.0,Ready to Move,2,5,Mid
+504,2,Unfurnished,2,Capital City,40.0,Ready to Move,3,8,Mid
+612,2,Furnished,2,BODH ASHA APARTMENT,65.0,Ready to Move,2,3,Mid
+454,1,Furnished,1,Bhargav Apartment,38.0,Ready to Move,4,4,Top
+303,1,Unfurnished,1,Carpet Area 303 sqft Status Ready to Move Floor 6 out of 8 Transaction Resale Furnishing Unfurnished Society Bhagwan Gautam Buddha Society,10.0,Ready to Move,6,8,Top
+335,1,Unfurnished,1,Carpet Area 335 sqft Status Ready to Move Floor 6 out of 7 Transaction Resale Furnishing Unfurnished Society Bhagwan Gautam Buddha Society,15.0,Ready to Move,6,7,Top
+443,1,Unfurnished,1,Bhagirathi Heights,43.0,Ready to Move,5,5,Top
+696,2,Unfurnished,2,Balaji Buildcon,51.0,Ready to Move,1,4,Mid
+756,2,Semi-Furnished,2,Shah Prestige Gold,75.5,Ready to Move,8,14,Mid
+756,2,Unfurnished,2,Shah Prestige Gold,77.5,Ready to Move,8,14,Mid
+468,2,Unfurnished,1,Gurukrupa Park,30.0,Ready to Move,2,6,Mid
+684,2,Semi-Furnished,2,Kalash Homes,38.5,Ready to Move,9,10,Top
+662,2,Semi-Furnished,2,Kalash Homes,36.0,Ready to Move,4,10,Mid
+684,2,Unfurnished,2,Kalash Homes,40.0,Ready to Move,1,10,Low
+673,2,Unfurnished,2,Kalash Homes,37.0,Ready to Move,4,10,Mid
+706,2,Unfurnished,2,Kalash Homes,37.0,Ready to Move,5,10,Mid
+464,1,Furnished,1,Avenir society,35.0,Ready to Move,2,5,Mid
+360,1,Unfurnished,2,Golden Shine City,36.0,Ready to Move,7,12,Mid
+396,1,Unfurnished,1,Golden Shine City,30.0,Ready to Move,8,9,Top
+546,2,Unfurnished,2,Sai Hira Classique,33.0,Ready to Move,2,6,Mid
+756,2,Unfurnished,2,Prakash Royal Elegance,87.0,Ready to Move,10,12,Top
+490,1,Unfurnished,1,Gagan Renaissance,35.0,Ready to Move,7,11,Mid
+442,1,Furnished,1,Everest Plaza,59.0,Ready to Move,5,12,Mid
+756,2,Unfurnished,2,Shakuntala Kanade Nagar,55.0,Ready to Move,6,12,Mid
+438,1,Furnished,1,Sarthak Heights,25.0,Ready to Move,1,5,Low
+1656,4,Furnished,1,Flower Valley,300.0,Ready to Move,1,11,Low
+1044,3,Semi-Furnished,3,Silver Dale,130.0,Ready to Move,2,7,Mid
+584,2,Unfurnished,2,Silver Nest,45.0,Ready to Move,3,5,Mid
+468,2,Unfurnished,2,Akshara Platinum,62.0,Ready to Move,1,9,Low
+360,1,Semi-Furnished,1,Yeole,45.0,Ready to Move,2,3,Mid
+778,2,Furnished,2,Atria Grande,55.0,Ready to Move,3,6,Mid
+763,2,Semi-Furnished,2,Atria Grande,67.0,Ready to Move,2,11,Low
+504,1,Unfurnished,2,Shreeram Kalash,36.0,Ready to Move,4,4,Top
+432,1,Unfurnished,1,SHANTAI GREEN,42.0,Ready to Move,6,12,Mid
+482,1,Unfurnished,1,SHANTAI GREEN,40.0,Ready to Move,7,13,Mid
+403,1,Unfurnished,2,DMK Stella Towers,30.0,Ready to Move,10,14,Mid
+344,1,Semi-Furnished,2,DMK Stella Towers,35.0,Ready to Move,10,15,Mid
+684,2,Unfurnished,2,Sunflower Apartment CHS,45.0,Ready to Move,9,10,Top
+463,1,Furnished,1,Yogesh Gandharva Nagari Community Villa,32.0,Ready to Move,2,4,Mid
+648,3,Unfurnished,2,XRBIA Eiffel City Phase I,34.0,Ready to Move,11,13,Top
+459,1,Semi-Furnished,1,Sidhi Apartment,39.0,Ready to Move,4,5,Top
+1314,3,Furnished,3,Brahmacorp F Residences Phase III,215.0,Ready to Move,3,7,Mid
+720,2,Unfurnished,2,Shubhankar Apartment,65.0,Ready to Move,6,6,Top
+684,2,Unfurnished,2,Sharvil Apartment,65.0,Ready to Move,2,11,Low
+389,1,Unfurnished,1,Rajgardan Apartment,32.0,Ready to Move,3,5,Mid
+492,2,Semi-Furnished,2,Audumbar Heights,58.0,Ready to Move,4,7,Mid
+585,2,Unfurnished,2,Artharaj Hillock Towers Phase II,37.0,Ready to Move,7,12,Mid
+451,2,Unfurnished,2,Artharaj Hillock Towers Phase II,25.5,Ready to Move,7,10,Mid
+530,2,Unfurnished,2,Artharaj Hillock Towers Phase II,35.0,Ready to Move,10,12,Top
+468,1,Unfurnished,1,SVB Future City,25.0,Ready to Move,3,11,Mid
+936,3,Unfurnished,2,Gokhale Ira,85.0,Ready to Move,1,6,Low
+446,1,Semi-Furnished,2,Vardhaman Dreams Phase II,50.0,Ready to Move,1,8,Low
+720,2,Semi-Furnished,2,Mehta Apartments,96.0,Ready to Move,2,4,Mid
+423,1,Semi-Furnished,1,Manjula Heights,21.0,Ready to Move,1,5,Low
+752,2,Semi-Furnished,1,Sarita Nagari CHS,100.0,Ready to Move,1,8,Low
+240,1,Semi-Furnished,1,Venkatesh Apartment Shivane,15.0,Ready to Move,5,6,Top
+396,1,Unfurnished,1,Darpan Apartment,20.0,Ready to Move,3,4,Top
+413,1,Semi-Furnished,1,Shriram Apartment Karve Nagar,50.0,Ready to Move,3,5,Mid
+449,1,Unfurnished,1,Sai Residency Dhanori,29.0,Ready to Move,3,3,Top
+415,1,Unfurnished,1,Sai Residency Wagholi,30.5,Ready to Move,1,5,Low
+687,2,Unfurnished,2,Shanti Niketan Apartment Hadapsar,80.0,Ready to Move,1,6,Low
+680,2,Furnished,2,Sai Park Ghorpadi,57.0,Ready to Move,1,4,Mid
+403,1,Semi-Furnished,2,Anand Residency Thergaon,39.0,Ready to Move,2,5,Mid
+540,2,Semi-Furnished,1,Ganesh Garden Apartment Vadgaon budruk,40.0,Ready to Move,2,5,Mid
+583,2,Furnished,2,Vithu Mauli Complex,35.0,Ready to Move,1,5,Low
+442,1,Unfurnished,1,Zohra Apartment,34.0,Ready to Move,3,4,Top
+504,2,Semi-Furnished,2,Vishwajeet Apartment,70.0,Ready to Move,3,4,Top
+576,2,Unfurnished,2,Zam Zam Residency,30.0,Ready to Move,2,6,Mid
+936,3,Unfurnished,2,Temple Tower,50.0,Ready to Move,5,6,Top
+432,1,Semi-Furnished,1,Sonigara Sankalp,52.0,Ready to Move,4,5,Top
+490,1,Semi-Furnished,1,Sonigara Sankalp,40.0,Ready to Move,3,5,Mid
+1008,3,Furnished,3,Sukhwani Citi,110.0,Ready to Move,2,5,Mid
+324,1,Unfurnished,1,Shubham Sneha Apartment,25.0,Ready to Move,1,4,Mid
+653,2,Semi-Furnished,2,Shree Dutt Vihar Apartment,45.0,Ready to Move,3,6,Mid
+359,1,Unfurnished,1,Shree Swami Samarth Sankul Apartment,25.0,Ready to Move,2,4,Mid
+446,1,Semi-Furnished,1,Shree Swami Krupa CHS,32.0,Ready to Move,1,5,Low
+288,1,Unfurnished,1,Shivsadhana CHS,15.0,Ready to Move,3,4,Top
+259,1,Semi-Furnished,1,Sami Apartment,20.0,Ready to Move,11,13,Top
+504,2,Unfurnished,1,Shivganga CHS,27.0,Ready to Move,2,5,Mid
+619,2,Unfurnished,2,Shreeram Residency Vishal Nagar,63.0,Ready to Move,3,6,Mid
+288,1,Unfurnished,1,Shivtirth Apartment Gulab Nagar,18.0,Ready to Move,3,3,Top
+598,2,Semi-Furnished,1,Shivtirth Apartment Gulab Nagar,35.0,Ready to Move,2,6,Mid
+684,2,Furnished,2,Shreeyash apartment,87.0,Ready to Move,2,6,Mid
+684,2,Unfurnished,2,Yashobhumi Silver Park,55.0,Ready to Move,1,5,Low
+562,2,Unfurnished,2,Royale Plaza,35.0,Ready to Move,3,4,Top
+461,2,Unfurnished,2,Kanchan Vrundavan Business Complex,23.0,Ready to Move,3,4,Top
+619,2,Unfurnished,2,GDS Capital Square,32.0,Ready to Move,7,7,Top
+584,2,Unfurnished,2,Karha Gold,63.0,Ready to Move,2,3,Mid
+1070,2,Semi-Furnished,3,Raichandani Ten Square,110.0,Ready to Move,9,11,Top
+400,1,Unfurnished,1,KUL Ecoloch Amenity,38.5,Ready to Move,5,8,Mid
+504,2,Semi-Furnished,1,Sayli Complex,37.0,Ready to Move,4,5,Top
+670,2,Unfurnished,2,Waghere Empire,70.0,Ready to Move,2,6,Mid
+468,1,Semi-Furnished,1,Sonigara Sankalp,35.0,Ready to Move,3,4,Top
+648,2,Unfurnished,2,Shree Morya Gosavi Raj Park,58.0,Ready to Move,3,6,Mid
+648,3,Unfurnished,3,Mantra 7 Hills,58.0,Ready to Move,6,12,Mid
+482,2,Unfurnished,2,Mantra 7 Hills,45.0,Ready to Move,3,12,Mid
+576,3,Semi-Furnished,3,Mantra 7 Hills,55.0,Ready to Move,5,12,Mid
+578,3,Unfurnished,3,Mantra 7 Hills,55.0,Ready to Move,6,10,Mid
+504,2,Unfurnished,2,Mantra 7 Hills,38.0,Ready to Move,5,13,Mid
+468,1,Semi-Furnished,1,Angal Nakshatra,49.0,Ready to Move,7,7,Top
+619,2,Unfurnished,2,Vilochan Residency,52.0,Ready to Move,4,6,Mid
+612,2,Furnished,2,Vilochan Residency,42.0,Ready to Move,4,5,Top
+619,2,Unfurnished,2,Vilochan Residency,50.0,Ready to Move,4,5,Top
+720,2,Unfurnished,2,Whistling Winds,55.0,Ready to Move,3,8,Mid
+611,2,Semi-Furnished,2,Ramana Srushti,49.0,Ready to Move,3,5,Mid
+296,1,Unfurnished,1,Puraniks Aldea,51.0,Ready to Move,8,15,Mid
+468,1,Semi-Furnished,1,Puraniks Aldea,54.0,Ready to Move,3,15,Low
+680,2,Unfurnished,2,Punyavaastu,56.0,Ready to Move,5,8,Mid
+706,2,Unfurnished,2,RR Akshay Srushti,51.0,Ready to Move,6,9,Mid
+396,1,Semi-Furnished,1,Prakalp Paradise,37.0,Ready to Move,4,6,Mid
+468,1,Furnished,1,Prasun Puram,40.0,Ready to Move,1,4,Mid
+468,1,Semi-Furnished,1,Sai Enclave,45.0,Ready to Move,3,3,Top
+396,1,Unfurnished,1,Shreeram Swapnapurti,24.0,Ready to Move,1,4,Mid
+670,2,Furnished,2,Popular Colony,65.0,Ready to Move,9,12,Top
+636,2,Unfurnished,2,Popular Colony,52.0,Ready to Move,10,11,Top
+643,2,Unfurnished,2,Popular Colony,65.0,Ready to Move,5,11,Mid
+454,1,Unfurnished,1,Sai Niketan,25.0,Ready to Move,1,6,Low
+446,1,Unfurnished,1,Sadguru Park,25.0,Ready to Move,4,5,Top
+466,1,Unfurnished,1,Vaibhav Nagar,40.0,Ready to Move,2,7,Mid
+756,2,Semi-Furnished,2,Stone Ridge F Building,62.0,Ready to Move,6,7,Top
+410,1,Semi-Furnished,1,Ganesh Kinara,45.0,Ready to Move,2,5,Mid
+310,1,Unfurnished,1,Sukhvastu,17.5,Ready to Move,9,10,Top
+720,2,Furnished,2,Shankeshwar Crimson,65.0,Ready to Move,1,11,Low
+881,3,Unfurnished,3,The Address Residential,98.0,Ready to Move,6,12,Mid
+432,1,Unfurnished,1,Buildstrong Vistara,29.0,Ready to Move,8,9,Top
+410,1,Semi-Furnished,1,Rudra CHS,35.0,Ready to Move,1,5,Low
+590,2,Unfurnished,2,Sanavi Aangan,42.0,Ready to Move,2,3,Mid
+444,2,Furnished,2,Aashiyana Vihar CHS,52.0,Ready to Move,1,3,Mid
+792,2,Semi-Furnished,2,Suvidha CHS,69.9,Ready to Move,2,4,Mid
+540,2,Unfurnished,2,Parth Vihar CHS,40.0,Ready to Move,4,5,Top
+518,1,Unfurnished,1,Hill View Park Apartment,29.0,Ready to Move,1,6,Low
+612,2,Unfurnished,2,Shreeraj Apartment,50.0,Ready to Move,2,4,Mid
+302,1,Semi-Furnished,1,Jamil Manzil,13.5,Ready to Move,3,6,Mid
+385,1,Semi-Furnished,1,Kaka Residency,34.0,Ready to Move,2,5,Mid
+1136,3,Semi-Furnished,3,PRA The Lake District Phase IV,75.0,Ready to Move,9,13,Mid
+546,2,Unfurnished,2,Dimension Ikon,42.0,Ready to Move,2,5,Mid
+446,1,Unfurnished,1,Suyash Srushti Phase I,30.0,Ready to Move,3,4,Top
+662,2,Unfurnished,2,Bloom City Apartment,65.0,Ready to Move,4,5,Top
+432,1,Semi-Furnished,1,Panama Silver Stone Row Houses Phase II,29.0,Ready to Move,2,7,Mid
+403,1,Semi-Furnished,1,Kaustubh Apartment,45.0,Ready to Move,3,3,Top
+349,1,Unfurnished,1,Playtor Childscapes Paud,18.0,Ready to Move,2,4,Mid
+695,2,Unfurnished,2,Anand Vaastu,39.0,Ready to Move,3,4,Top
+493,1,Unfurnished,1,Sahil Residency,45.0,Ready to Move,1,6,Low
+576,2,Furnished,2,Pushpamala Apartment,55.0,Ready to Move,2,3,Mid
+338,1,Unfurnished,1,Pragati Pooja Apartment,30.0,Ready to Move,2,7,Mid
+1224,3,Unfurnished,3,Akashdeep Apartment,260.0,Ready to Move,2,8,Mid
+423,1,Unfurnished,1,Ashtavinayak Aarambh Apartment,26.0,Ready to Move,2,4,Mid
+421,1,Unfurnished,1,Ashtavinayak Aarambh Apartment,25.0,Ready to Move,2,4,Mid
+653,2,Furnished,2,Sainath Pinewood Carpet Area 653 sqft Status Ready to Move Floor 11 out of 11 Transaction Resale Furnishing Furnished Society Sainath Pinewood,90.0,Ready to Move,11,11,Top
+533,2,Furnished,2,Parvati Classic CHS,45.0,Ready to Move,1,7,Low
+1030,3,Semi-Furnished,3,Kalpataru Iris,115.0,Ready to Move,6,14,Mid
+439,1,Semi-Furnished,1,Sanjeevani Sangam,39.0,Ready to Move,3,4,Top
+536,2,Unfurnished,2,Goel Gyan Ganga,55.0,Ready to Move,3,6,Mid
+691,2,Semi-Furnished,2,Shivam Serene Scapes,62.0,Ready to Move,12,13,Top
+612,2,Unfurnished,2,Kohinoor Begonia,35.0,Ready to Move,1,8,Low
+619,2,Unfurnished,2,Kohinoor Begonia,32.0,Ready to Move,6,8,Top
+671,2,Furnished,2,J J Adora,75.0,Ready to Move,5,6,Top
+792,2,Semi-Furnished,2,Garve Amora Homes,62.0,Ready to Move,8,11,Mid
+548,1,Semi-Furnished,1,Vanalika,25.0,Ready to Move,11,13,Top
+451,2,Unfurnished,2,Dewachi Urli,40.0,Ready to Move,7,10,Mid
+497,2,Semi-Furnished,1,Commanders AayushPark,28.1,Ready to Move,7,7,Top
+468,1,Furnished,2,Ganga Kunj,85.0,Ready to Move,2,5,Mid
+512,2,Unfurnished,2,Ganga Kunj,40.0,Ready to Move,4,5,Top
+408,1,Unfurnished,1,Dwarka City,20.0,Ready to Move,1,7,Low
+562,2,Unfurnished,1,Pride Lotus,34.0,Ready to Move,5,11,Mid
+619,2,Unfurnished,2,Riddhi Siddhi Towers,40.0,Ready to Move,8,8,Top
+679,2,Furnished,2,Riddhi Siddhi Towers,58.0,Ready to Move,6,9,Mid
+324,1,Unfurnished,1,Shri Ghanoba Vighnharta Park,18.0,Ready to Move,4,5,Top
+432,1,Unfurnished,1,Life Republic Clubhouse,36.0,Ready to Move,1,7,Low
+544,2,Unfurnished,2,Urbangram,32.0,Ready to Move,9,12,Top
+310,1,Semi-Furnished,1,Kirkatwadi,95.0,Ready to Move,3,5,Mid
+432,1,Unfurnished,1,Kirkatwadi,32.0,Ready to Move,6,12,Mid
+468,1,Semi-Furnished,1,Kirkatwadi,26.0,Ready to Move,3,4,Top
+432,1,Unfurnished,1,Paranjape Athashri Xion,58.0,Ready to Move,1,9,Low
+570,2,Unfurnished,2,Commanders Aayush Park,36.0,Ready to Move,6,9,Mid
+297,1,Unfurnished,1,Unicon Nivasa,16.0,Ready to Move,2,6,Mid
+439,1,Unfurnished,1,Gmc Ganga,42.0,Ready to Move,4,4,Top
+727,2,Furnished,2,Gmc Empire I,72.0,Ready to Move,3,3,Top
+662,3,Semi-Furnished,2,Morya,78.0,Ready to Move,2,4,Mid
+576,2,Unfurnished,2,Daisy Daffodils,42.0,Ready to Move,1,4,Mid
+677,2,Unfurnished,2,Pratik Nagar,33.0,Ready to Move,2,3,Mid
+464,1,Unfurnished,1,Regency Park,30.0,Ready to Move,1,4,Mid
+472,1,Unfurnished,1,Mantra Parkview,40.0,Ready to Move,3,14,Low
+349,1,Furnished,1,Prestige Park,30.0,Ready to Move,3,5,Mid
+1035,3,Semi-Furnished,3,Ravima Feel Bliss,133.0,Ready to Move,6,12,Mid
+643,2,Unfurnished,2,Sumeru Residency,44.0,Ready to Move,7,8,Top
+454,1,Semi-Furnished,2,Kanchan Onyx,36.0,Ready to Move,9,11,Top
+461,1,Unfurnished,2,Kanchan Onyx,31.5,Ready to Move,7,12,Mid
+467,1,Semi-Furnished,2,Kanchan Onyx,40.0,Ready to Move,5,12,Mid
+1079,3,Furnished,3,Kanchan Onyx,100.0,Ready to Move,2,11,Low
+901,2,Semi-Furnished,2,Casa Mia,62.0,Ready to Move,4,14,Mid
+490,1,Semi-Furnished,2,Pragati Nandini Bellus,45.0,Ready to Move,1,12,Low
+778,2,Furnished,2,Prudentia Towers,74.0,Ready to Move,5,16,Mid
+468,1,Unfurnished,1,Venkatesh Lake Life,35.0,Ready to Move,9,11,Top
+540,2,Unfurnished,2,OM Shriniwas Venkatesh Classic,55.0,Ready to Move,10,12,Top
+646,2,Semi-Furnished,2,Shree Dhareshwar Angan,40.0,Ready to Move,1,5,Low
+331,1,Unfurnished,1,Rivaah Regency,38.0,Ready to Move,6,9,Mid
+648,2,Unfurnished,2,Rivaah Regency,60.0,Ready to Move,2,9,Low
+574,2,Unfurnished,2,Rivaah Regency,55.0,Ready to Move,7,9,Top
+684,2,Semi-Furnished,2,Belscot Residency,90.0,Ready to Move,4,6,Mid
+449,1,Furnished,1,Pearl,35.0,Ready to Move,11,12,Top
+1020,3,Semi-Furnished,2,Satyam Shivam,130.0,Ready to Move,6,12,Mid
+529,1,Unfurnished,1,Aaditya Malhar,45.0,Ready to Move,10,12,Top
+468,1,Unfurnished,1,Kanchan Sunratna,35.0,Ready to Move,9,9,Top
+945,3,Semi-Furnished,3,Tropical Palms,120.0,Ready to Move,11,12,Top
+723,2,Semi-Furnished,2,Tropical Palms,80.0,Ready to Move,1,15,Low
+403,1,Semi-Furnished,1,Lotus Apartment,30.0,Ready to Move,3,4,Top
+454,1,Unfurnished,1,Florida Minis,40.0,Ready to Move,2,5,Mid
+491,1,Unfurnished,1,Swaraj Complex,32.0,Ready to Move,1,7,Low
+299,1,Unfurnished,1,Satyam Heights,22.0,Ready to Move,1,3,Mid
