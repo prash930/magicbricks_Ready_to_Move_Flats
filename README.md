@@ -80,14 +80,4 @@ We explore trends, visualize key metrics, and generate actionable insights to un
 ## 🙋‍♂️ Author
 
 **Prashant Mhaske**  
-🔗 [LinkedIn](https://www.linkedin.com/in/prashant-mhaske)
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-⭐ If you found this helpful, feel free to star the repo and contribute!
+🔗 [LinkedIn](https://www.linkedin.com/in/prashant-mhaske-715b24207)
